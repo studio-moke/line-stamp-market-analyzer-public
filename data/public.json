@@ -1,8 +1,515 @@
 {
-  "generatedAt": null,
-  "metrics": {"取得": 0, "分析採用": 0, "除外": 0, "企画候補": 0},
-  "topAction": null,
-  "plans": [],
-  "signals": [],
-  "ranking": []
+  "generatedAt": "2026-08-30T02:08:04.208Z",
+  "metrics": {
+    "取得": 108,
+    "分析採用": 89,
+    "除外": 19,
+    "企画候補": 91
+  },
+  "topAction": {
+    "names": [
+      "日常",
+      "仕事",
+      "癒し",
+      "毒舌"
+    ],
+    "score": 76,
+    "novelty": 94,
+    "usage": 58,
+    "longTail": 83,
+    "competition": 34,
+    "bonus": 27,
+    "verdict": "作る",
+    "target": "家族・友人",
+    "value": "仕事の堅い返信を、失礼にならず柔らかくする",
+    "examples": [
+      "了解",
+      "今見た！",
+      "あとで返す",
+      "おやすみ",
+      "承知しました",
+      "確認します"
+    ],
+    "prompt": "日本のLINEスタンプ市場向けに「日常 × 仕事 × 癒し × 毒舌」を使い、「仕事の堅い返信を、失礼にならず柔らかくする」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:76。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+  },
+  "plans": [
+    {
+      "names": [
+        "日常",
+        "仕事",
+        "癒し",
+        "毒舌"
+      ],
+      "score": 76,
+      "novelty": 94,
+      "usage": 58,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "作る",
+      "target": "家族・友人",
+      "value": "仕事の堅い返信を、失礼にならず柔らかくする",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "承知しました",
+        "確認します"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 仕事 × 癒し × 毒舌」を使い、「仕事の堅い返信を、失礼にならず柔らかくする」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:76。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "癒し",
+        "家族",
+        "毒舌"
+      ],
+      "score": 76,
+      "novelty": 94,
+      "usage": 58,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "作る",
+      "target": "家族・友人",
+      "value": "送迎・帰宅・家事など家族連絡を迷わず送る",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "無理しないで",
+        "えらい"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 癒し × 家族 × 毒舌」を使い、「送迎・帰宅・家事など家族連絡を迷わず送る」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:76。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "癒し",
+        "カップル",
+        "毒舌"
+      ],
+      "score": 76,
+      "novelty": 94,
+      "usage": 58,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "作る",
+      "target": "家族・友人",
+      "value": "毎日使う返事を最短で送る",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "無理しないで",
+        "えらい"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 癒し × カップル × 毒舌」を使い、「毎日使う返事を最短で送る」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:76。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "仕事",
+        "癒し",
+        "家族"
+      ],
+      "score": 75,
+      "novelty": 94,
+      "usage": 54,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "小さく検証",
+      "target": "家族・友人",
+      "value": "仕事の堅い返信を、失礼にならず柔らかくする",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "承知しました",
+        "確認します"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 仕事 × 癒し × 家族」を使い、「仕事の堅い返信を、失礼にならず柔らかくする」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:75。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "仕事",
+        "癒し",
+        "カップル"
+      ],
+      "score": 75,
+      "novelty": 94,
+      "usage": 54,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "小さく検証",
+      "target": "家族・友人",
+      "value": "仕事の堅い返信を、失礼にならず柔らかくする",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "承知しました",
+        "確認します"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 仕事 × 癒し × カップル」を使い、「仕事の堅い返信を、失礼にならず柔らかくする」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:75。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "仕事",
+        "家族",
+        "毒舌"
+      ],
+      "score": 75,
+      "novelty": 94,
+      "usage": 56,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "小さく検証",
+      "target": "家族・友人",
+      "value": "送迎・帰宅・家事など家族連絡を迷わず送る",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "承知しました",
+        "確認します"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 仕事 × 家族 × 毒舌」を使い、「送迎・帰宅・家事など家族連絡を迷わず送る」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:75。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "仕事",
+        "カップル",
+        "毒舌"
+      ],
+      "score": 75,
+      "novelty": 94,
+      "usage": 56,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "小さく検証",
+      "target": "家族・友人",
+      "value": "毎日使う返事を最短で送る",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "承知しました",
+        "確認します"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 仕事 × カップル × 毒舌」を使い、「毎日使う返事を最短で送る」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:75。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    },
+    {
+      "names": [
+        "日常",
+        "癒し",
+        "家族",
+        "カップル"
+      ],
+      "score": 75,
+      "novelty": 94,
+      "usage": 54,
+      "longTail": 83,
+      "competition": 34,
+      "bonus": 27,
+      "verdict": "小さく検証",
+      "target": "家族・友人",
+      "value": "送迎・帰宅・家事など家族連絡を迷わず送る",
+      "examples": [
+        "了解",
+        "今見た！",
+        "あとで返す",
+        "おやすみ",
+        "無理しないで",
+        "えらい"
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに「日常 × 癒し × 家族 × カップル」を使い、「送迎・帰宅・家事など家族連絡を迷わず送る」という1つの利用価値に絞った企画を3案出してください。ターゲット:家族・友人。市場スコア:75。各案について企画タイトル、キャラクター設計、差別化、40個の実用文言、SEOタイトル、160文字以内の説明文、画像生成用統一プロンプトまで具体化してください。"
+    }
+  ],
+  "signals": [
+    {
+      "name": "動物",
+      "count": 15,
+      "strength": 61,
+      "frequency": 43,
+      "competition": 100,
+      "longTail": 30
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "strength": 16,
+      "frequency": 60,
+      "competition": 54,
+      "longTail": 74
+    },
+    {
+      "name": "仕事",
+      "count": 1,
+      "strength": 4,
+      "frequency": 24,
+      "competition": 27,
+      "longTail": 86
+    },
+    {
+      "name": "癒し",
+      "count": 1,
+      "strength": 4,
+      "frequency": 32,
+      "competition": 27,
+      "longTail": 86
+    },
+    {
+      "name": "家族",
+      "count": 1,
+      "strength": 4,
+      "frequency": 21,
+      "competition": 27,
+      "longTail": 86
+    },
+    {
+      "name": "カップル",
+      "count": 1,
+      "strength": 4,
+      "frequency": 21,
+      "competition": 27,
+      "longTail": 86
+    },
+    {
+      "name": "毒舌",
+      "count": 1,
+      "strength": 4,
+      "frequency": 37,
+      "competition": 27,
+      "longTail": 86
+    }
+  ],
+  "ranking": [
+    {
+      "rank": 10,
+      "title": "超かぐや姫！Vol.3",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36050055/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36050055/ja?country=JP"
+    },
+    {
+      "rank": 14,
+      "title": "Animation only icon もちわさ日3(文字あり)",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36129073/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36129073/ja?country=JP"
+    },
+    {
+      "rank": 15,
+      "title": "ドラマ『君の好きは無敵』",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35728203/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35728203/ja?country=JP"
+    },
+    {
+      "rank": 17,
+      "title": "ず～っと使える♡食べるの大好きなぶたさん",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36000907/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36000907/ja?country=JP"
+    },
+    {
+      "rank": 19,
+      "title": "Animation only icon 動く！ちょこちょこモンチッチ♪",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35777223/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35777223/ja?country=JP"
+    },
+    {
+      "rank": 20,
+      "title": "Animation only icon 動く♪猫のつめあわせ【リアル猫】",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35815184/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35815184/ja?country=JP"
+    },
+    {
+      "rank": 21,
+      "title": "グラニフ「イカク」の毎日使えるスタンプ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35975551/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35975551/ja?country=JP"
+    },
+    {
+      "rank": 22,
+      "title": "Animation only icon 動く！シーズー（ゴールド＆白・文字なし）",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36088553/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36088553/ja?country=JP"
+    },
+    {
+      "rank": 23,
+      "title": "Animation only icon いくぜの動くハッピースタンプ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34555753/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/34555753/ja?country=JP"
+    },
+    {
+      "rank": 24,
+      "title": "Animation only icon にっこりリアクション（文字付き）",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/30114786/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/30114786/ja?country=JP"
+    },
+    {
+      "rank": 25,
+      "title": "架空の神/架空のギリシャ神話",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/29460203/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/29460203/ja?country=JP"
+    },
+    {
+      "rank": 26,
+      "title": "Animation only icon ねこなともだち ちっちゃい",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36164263/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36164263/ja?country=JP"
+    },
+    {
+      "rank": 27,
+      "title": "ラブラビットだけどいいの？",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35727911/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35727911/ja?country=JP"
+    },
+    {
+      "rank": 29,
+      "title": "しろまる理論",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33240894/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33240894/ja?country=JP"
+    },
+    {
+      "rank": 30,
+      "title": "Animation only icon にっこりダンス（文字付き）",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/26614851/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/26614851/ja?country=JP"
+    },
+    {
+      "rank": 31,
+      "title": "Popup only icon 飛び出す♡思いやり♡ダックス",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36129350/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36129350/ja?country=JP"
+    },
+    {
+      "rank": 32,
+      "title": "Animation only icon うごく！ピングーの名場面スタンプ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33659115/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33659115/ja?country=JP"
+    },
+    {
+      "rank": 33,
+      "title": "動物たちは口が悪い",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35987567/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35987567/ja?country=JP"
+    },
+    {
+      "rank": 34,
+      "title": "りっこ２８",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33140327/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33140327/ja?country=JP"
+    },
+    {
+      "rank": 35,
+      "title": "チャラ孫とばぁば。",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35904529/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35904529/ja?country=JP"
+    },
+    {
+      "rank": 36,
+      "title": "からぴちと毎日いっしょ！スタンプ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33806509/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33806509/ja?country=JP"
+    },
+    {
+      "rank": 37,
+      "title": "Animation only icon もちわさ日3(文字なし)",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36129060/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36129060/ja?country=JP"
+    },
+    {
+      "rank": 38,
+      "title": "ずっと使える♪ふんわり猫ちゃん",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35370422/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35370422/ja?country=JP"
+    },
+    {
+      "rank": 39,
+      "title": "Animation only icon ウザく動く！ウザ～～い猫6",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35861130/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35861130/ja?country=JP"
+    },
+    {
+      "rank": 40,
+      "title": "Animation only icon うごくぞ！コビハムちゃん",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34552095/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/34552095/ja?country=JP"
+    },
+    {
+      "rank": 41,
+      "title": "Animation only icon ブロスタしよう！！",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34130688/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/34130688/ja?country=JP"
+    },
+    {
+      "rank": 43,
+      "title": "Animation only icon もちにゃみ3",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33896433/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33896433/ja?country=JP"
+    },
+    {
+      "rank": 45,
+      "title": "コビハムちゃん２",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/25972953/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/25972953/ja?country=JP"
+    },
+    {
+      "rank": 46,
+      "title": "Animation only icon FRIC 27",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35735191/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35735191/ja?country=JP"
+    },
+    {
+      "rank": 47,
+      "title": "恋愛ポンコツうさぎ。",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35869015/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35869015/ja?country=JP"
+    }
+  ]
 }
