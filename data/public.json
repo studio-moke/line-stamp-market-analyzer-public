@@ -1,68 +1,174 @@
 {
-  "generatedAt": "2026-08-30T18:16:16.113Z",
+  "generatedAt": "2026-08-31T18:16:14.753Z",
   "analysisVersion": 2,
   "metrics": {
     "取得": 108,
-    "分析採用": 90,
-    "除外": 18,
-    "特徴量": 21,
-    "共起パターン": 15,
-    "企画候補": 8
+    "分析採用": 89,
+    "除外": 19,
+    "特徴量": 23,
+    "共起パターン": 24,
+    "企画候補": 18
   },
   "topAction": {
     "names": [
       "距離を縮める",
       "拒否",
-      "家族",
+      "友人",
       "毒舌",
       "かわいい",
       "甘い"
     ],
-    "score": 52,
+    "score": 50,
     "verdict": "保留",
-    "target": "家族向け",
-    "value": "家族との会話で「距離を縮める」を満たしながら、拒否を自然に送れる",
+    "target": "友人向け",
+    "value": "友人との会話で「距離を縮める」を満たしながら、拒否を自然に送れる",
     "dimensions": [
       {
         "axis": "心理欲求",
         "value": "距離を縮める",
-        "strength": 30,
-        "opportunity": 65
+        "strength": 29,
+        "opportunity": 60
       },
       {
         "axis": "会話機能",
         "value": "拒否",
-        "strength": 23,
-        "opportunity": 57
+        "strength": 10,
+        "opportunity": 46
       },
       {
         "axis": "関係性",
-        "value": "家族",
-        "strength": 14,
-        "opportunity": 50
+        "value": "友人",
+        "strength": 15,
+        "opportunity": 51
       },
       {
         "axis": "人格",
         "value": "毒舌",
-        "strength": 32,
-        "opportunity": 59
+        "strength": 16,
+        "opportunity": 48
       },
       {
         "axis": "表現",
         "value": "かわいい",
-        "strength": 33,
-        "opportunity": 74
+        "strength": 26,
+        "opportunity": 56
       },
       {
         "axis": "言葉の温度",
         "value": "甘い",
-        "strength": 37,
-        "opportunity": 78
+        "strength": 36,
+        "opportunity": 77
       }
     ],
-    "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:52。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+    "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:50。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
   },
   "plans": [
+    {
+      "names": [
+        "距離を縮める",
+        "拒否",
+        "友人",
+        "毒舌",
+        "かわいい",
+        "甘い"
+      ],
+      "score": 50,
+      "verdict": "保留",
+      "target": "友人向け",
+      "value": "友人との会話で「距離を縮める」を満たしながら、拒否を自然に送れる",
+      "dimensions": [
+        {
+          "axis": "心理欲求",
+          "value": "距離を縮める",
+          "strength": 29,
+          "opportunity": 60
+        },
+        {
+          "axis": "会話機能",
+          "value": "拒否",
+          "strength": 10,
+          "opportunity": 46
+        },
+        {
+          "axis": "関係性",
+          "value": "友人",
+          "strength": 15,
+          "opportunity": 51
+        },
+        {
+          "axis": "人格",
+          "value": "毒舌",
+          "strength": 16,
+          "opportunity": 48
+        },
+        {
+          "axis": "表現",
+          "value": "かわいい",
+          "strength": 26,
+          "opportunity": 56
+        },
+        {
+          "axis": "言葉の温度",
+          "value": "甘い",
+          "strength": 36,
+          "opportunity": 77
+        }
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:50。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+    },
+    {
+      "names": [
+        "距離を縮める",
+        "催促",
+        "友人",
+        "毒舌",
+        "かわいい",
+        "甘い"
+      ],
+      "score": 49,
+      "verdict": "保留",
+      "target": "友人向け",
+      "value": "友人との会話で「距離を縮める」を満たしながら、催促を自然に送れる",
+      "dimensions": [
+        {
+          "axis": "心理欲求",
+          "value": "距離を縮める",
+          "strength": 29,
+          "opportunity": 60
+        },
+        {
+          "axis": "会話機能",
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
+        },
+        {
+          "axis": "関係性",
+          "value": "友人",
+          "strength": 15,
+          "opportunity": 51
+        },
+        {
+          "axis": "人格",
+          "value": "毒舌",
+          "strength": 16,
+          "opportunity": 48
+        },
+        {
+          "axis": "表現",
+          "value": "かわいい",
+          "strength": 26,
+          "opportunity": 56
+        },
+        {
+          "axis": "言葉の温度",
+          "value": "甘い",
+          "strength": 36,
+          "opportunity": 77
+        }
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:催促。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:49。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+    },
     {
       "names": [
         "距離を縮める",
@@ -72,7 +178,7 @@
         "かわいい",
         "甘い"
       ],
-      "score": 52,
+      "score": 48,
       "verdict": "保留",
       "target": "家族向け",
       "value": "家族との会話で「距離を縮める」を満たしながら、拒否を自然に送れる",
@@ -80,41 +186,41 @@
         {
           "axis": "心理欲求",
           "value": "距離を縮める",
-          "strength": 30,
-          "opportunity": 65
+          "strength": 29,
+          "opportunity": 60
         },
         {
           "axis": "会話機能",
           "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "strength": 10,
+          "opportunity": 46
         },
         {
           "axis": "関係性",
           "value": "家族",
-          "strength": 14,
-          "opportunity": 50
+          "strength": 8,
+          "opportunity": 43
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:52。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:48。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
@@ -125,7 +231,7 @@
         "かわいい",
         "甘い"
       ],
-      "score": 52,
+      "score": 48,
       "verdict": "保留",
       "target": "恋人向け",
       "value": "恋人との会話で「距離を縮める」を満たしながら、拒否を自然に送れる",
@@ -133,359 +239,465 @@
         {
           "axis": "心理欲求",
           "value": "距離を縮める",
-          "strength": 30,
-          "opportunity": 65
+          "strength": 29,
+          "opportunity": 60
         },
         {
           "axis": "会話機能",
           "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "strength": 10,
+          "opportunity": 46
         },
         {
           "axis": "関係性",
           "value": "恋人",
-          "strength": 14,
-          "opportunity": 50
+          "strength": 8,
+          "opportunity": 43
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:52。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:拒否。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:48。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
-        "本音代弁",
-        "拒否",
+        "距離を縮める",
+        "催促",
         "家族",
         "毒舌",
         "かわいい",
         "甘い"
       ],
-      "score": 46,
+      "score": 47,
       "verdict": "保留",
       "target": "家族向け",
-      "value": "家族との会話で「本音代弁」を満たしながら、拒否を自然に送れる",
+      "value": "家族との会話で「距離を縮める」を満たしながら、催促を自然に送れる",
       "dimensions": [
         {
           "axis": "心理欲求",
-          "value": "本音代弁",
-          "strength": 32,
-          "opportunity": 59
+          "value": "距離を縮める",
+          "strength": 29,
+          "opportunity": 60
         },
         {
           "axis": "会話機能",
-          "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "関係性",
           "value": "家族",
-          "strength": 14,
-          "opportunity": 50
+          "strength": 8,
+          "opportunity": 43
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:本音代弁。会話機能:拒否。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:46。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:催促。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:47。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
-        "本音代弁",
-        "拒否",
+        "距離を縮める",
+        "催促",
         "恋人",
         "毒舌",
         "かわいい",
         "甘い"
       ],
-      "score": 46,
+      "score": 47,
       "verdict": "保留",
       "target": "恋人向け",
-      "value": "恋人との会話で「本音代弁」を満たしながら、拒否を自然に送れる",
+      "value": "恋人との会話で「距離を縮める」を満たしながら、催促を自然に送れる",
       "dimensions": [
         {
           "axis": "心理欲求",
-          "value": "本音代弁",
-          "strength": 32,
-          "opportunity": 59
+          "value": "距離を縮める",
+          "strength": 29,
+          "opportunity": 60
         },
         {
           "axis": "会話機能",
-          "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "関係性",
           "value": "恋人",
-          "strength": 14,
-          "opportunity": 50
+          "strength": 8,
+          "opportunity": 43
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:本音代弁。会話機能:拒否。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:46。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:距離を縮める。会話機能:催促。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:47。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
-        "角を立てない",
+        "本音代弁",
+        "催促",
+        "友人",
+        "毒舌",
+        "かわいい",
+        "甘い"
+      ],
+      "score": 44,
+      "verdict": "保留",
+      "target": "友人向け",
+      "value": "友人との会話で「本音代弁」を満たしながら、催促を自然に送れる",
+      "dimensions": [
+        {
+          "axis": "心理欲求",
+          "value": "本音代弁",
+          "strength": 16,
+          "opportunity": 48
+        },
+        {
+          "axis": "会話機能",
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
+        },
+        {
+          "axis": "関係性",
+          "value": "友人",
+          "strength": 15,
+          "opportunity": 51
+        },
+        {
+          "axis": "人格",
+          "value": "毒舌",
+          "strength": 16,
+          "opportunity": 48
+        },
+        {
+          "axis": "表現",
+          "value": "かわいい",
+          "strength": 26,
+          "opportunity": 56
+        },
+        {
+          "axis": "言葉の温度",
+          "value": "甘い",
+          "strength": 36,
+          "opportunity": 77
+        }
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:本音代弁。会話機能:催促。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:44。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+    },
+    {
+      "names": [
+        "本音代弁",
         "拒否",
-        "家族",
+        "友人",
         "毒舌",
         "かわいい",
         "甘い"
       ],
       "score": 42,
       "verdict": "保留",
-      "target": "家族向け",
-      "value": "家族との会話で「角を立てない」を満たしながら、拒否を自然に送れる",
+      "target": "友人向け",
+      "value": "友人との会話で「本音代弁」を満たしながら、拒否を自然に送れる",
       "dimensions": [
         {
           "axis": "心理欲求",
-          "value": "角を立てない",
-          "strength": 27,
-          "opportunity": 67
+          "value": "本音代弁",
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "会話機能",
           "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "strength": 10,
+          "opportunity": 46
         },
         {
           "axis": "関係性",
-          "value": "家族",
-          "strength": 14,
-          "opportunity": 50
+          "value": "友人",
+          "strength": 15,
+          "opportunity": 51
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:角を立てない。会話機能:拒否。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:42。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:本音代弁。会話機能:拒否。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:42。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
         "角を立てない",
-        "拒否",
-        "恋人",
+        "催促",
+        "友人",
         "毒舌",
         "かわいい",
         "甘い"
       ],
       "score": 42,
       "verdict": "保留",
-      "target": "恋人向け",
-      "value": "恋人との会話で「角を立てない」を満たしながら、拒否を自然に送れる",
+      "target": "友人向け",
+      "value": "友人との会話で「角を立てない」を満たしながら、催促を自然に送れる",
       "dimensions": [
         {
           "axis": "心理欲求",
           "value": "角を立てない",
-          "strength": 27,
-          "opportunity": 67
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "会話機能",
-          "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "関係性",
-          "value": "恋人",
-          "strength": 14,
-          "opportunity": 50
+          "value": "友人",
+          "strength": 15,
+          "opportunity": 51
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:角を立てない。会話機能:拒否。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:42。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:角を立てない。会話機能:催促。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:42。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
-        "笑わせる",
+        "角を立てない",
         "拒否",
+        "友人",
+        "毒舌",
+        "かわいい",
+        "甘い"
+      ],
+      "score": 40,
+      "verdict": "保留",
+      "target": "友人向け",
+      "value": "友人との会話で「角を立てない」を満たしながら、拒否を自然に送れる",
+      "dimensions": [
+        {
+          "axis": "心理欲求",
+          "value": "角を立てない",
+          "strength": 6,
+          "opportunity": 41
+        },
+        {
+          "axis": "会話機能",
+          "value": "拒否",
+          "strength": 10,
+          "opportunity": 46
+        },
+        {
+          "axis": "関係性",
+          "value": "友人",
+          "strength": 15,
+          "opportunity": 51
+        },
+        {
+          "axis": "人格",
+          "value": "毒舌",
+          "strength": 16,
+          "opportunity": 48
+        },
+        {
+          "axis": "表現",
+          "value": "かわいい",
+          "strength": 26,
+          "opportunity": 56
+        },
+        {
+          "axis": "言葉の温度",
+          "value": "甘い",
+          "strength": 36,
+          "opportunity": 77
+        }
+      ],
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:角を立てない。会話機能:拒否。関係性:友人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:40。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+    },
+    {
+      "names": [
+        "角を立てない",
+        "催促",
         "家族",
         "毒舌",
         "かわいい",
         "甘い"
       ],
-      "score": 39,
+      "score": 40,
       "verdict": "保留",
       "target": "家族向け",
-      "value": "家族との会話で「笑わせる」を満たしながら、拒否を自然に送れる",
+      "value": "家族との会話で「角を立てない」を満たしながら、催促を自然に送れる",
       "dimensions": [
         {
           "axis": "心理欲求",
-          "value": "笑わせる",
-          "strength": 7,
-          "opportunity": 42
+          "value": "角を立てない",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "会話機能",
-          "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "関係性",
           "value": "家族",
-          "strength": 14,
-          "opportunity": 50
+          "strength": 8,
+          "opportunity": 43
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:笑わせる。会話機能:拒否。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:39。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:角を立てない。会話機能:催促。関係性:家族。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:40。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     },
     {
       "names": [
-        "笑わせる",
-        "拒否",
+        "角を立てない",
+        "催促",
         "恋人",
         "毒舌",
         "かわいい",
         "甘い"
       ],
-      "score": 39,
+      "score": 40,
       "verdict": "保留",
       "target": "恋人向け",
-      "value": "恋人との会話で「笑わせる」を満たしながら、拒否を自然に送れる",
+      "value": "恋人との会話で「角を立てない」を満たしながら、催促を自然に送れる",
       "dimensions": [
         {
           "axis": "心理欲求",
-          "value": "笑わせる",
-          "strength": 7,
-          "opportunity": 42
+          "value": "角を立てない",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "会話機能",
-          "value": "拒否",
-          "strength": 23,
-          "opportunity": 57
+          "value": "催促",
+          "strength": 6,
+          "opportunity": 41
         },
         {
           "axis": "関係性",
           "value": "恋人",
-          "strength": 14,
-          "opportunity": 50
+          "strength": 8,
+          "opportunity": 43
         },
         {
           "axis": "人格",
           "value": "毒舌",
-          "strength": 32,
-          "opportunity": 59
+          "strength": 16,
+          "opportunity": 48
         },
         {
           "axis": "表現",
           "value": "かわいい",
-          "strength": 33,
-          "opportunity": 74
+          "strength": 26,
+          "opportunity": 56
         },
         {
           "axis": "言葉の温度",
           "value": "甘い",
-          "strength": 37,
-          "opportunity": 78
+          "strength": 36,
+          "opportunity": 77
         }
       ],
-      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:笑わせる。会話機能:拒否。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:39。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
+      "prompt": "日本のLINEスタンプ市場向けに、次の多次元インサイトから企画を3案作ってください。心理欲求:角を立てない。会話機能:催促。関係性:恋人。補助特徴:人格:毒舌、表現:かわいい、言葉の温度:甘い。市場スコア:40。単なるカテゴリ足し算ではなく、誰が誰に・どんな場面で・なぜスタンプで言いたいのかを1つの利用価値に統合してください。各案に企画タイトル、具体ターゲット、利用シーン、心理的ジョブ、キャラクター/表現ギャップ、差別化、40個の実用文言、SEOタイトル、160文字以内説明、画像生成用統一プロンプトを含めてください。"
     }
   ],
   "insights": {
@@ -498,90 +710,92 @@
             "axis": "subject",
             "axisLabel": "主体",
             "value": "猫",
-            "count": 6,
+            "count": 8,
             "ranks": [
-              22,
-              37,
-              50,
-              73,
+              40,
+              42,
+              63,
+              66,
               80,
-              94
+              82,
+              93,
+              103
             ],
-            "avgRank": 59,
-            "strength": 46,
-            "competition": 60,
-            "opportunity": 66
+            "avgRank": 71,
+            "strength": 51,
+            "competition": 76,
+            "opportunity": 54
           },
           {
             "axis": "subject",
             "axisLabel": "主体",
             "value": "犬",
-            "count": 4,
+            "count": 5,
             "ranks": [
-              28,
-              30,
-              47,
+              13,
+              39,
+              48,
+              60,
               85
             ],
-            "avgRank": 48,
-            "strength": 41,
-            "competition": 44,
-            "opportunity": 69
-          },
-          {
-            "axis": "subject",
-            "axisLabel": "主体",
-            "value": "人物",
-            "count": 2,
-            "ranks": [
-              24,
-              84
-            ],
-            "avgRank": 54,
-            "strength": 29,
-            "competition": 28,
-            "opportunity": 64
+            "avgRank": 49,
+            "strength": 45,
+            "competition": 52,
+            "opportunity": 70
           },
           {
             "axis": "subject",
             "axisLabel": "主体",
             "value": "うさぎ",
-            "count": 2,
+            "count": 3,
             "ranks": [
-              51,
-              88
+              21,
+              59,
+              69
             ],
-            "avgRank": 70,
-            "strength": 24,
-            "competition": 28,
-            "opportunity": 57
+            "avgRank": 50,
+            "strength": 35,
+            "competition": 36,
+            "opportunity": 67
+          },
+          {
+            "axis": "subject",
+            "axisLabel": "主体",
+            "value": "くま",
+            "count": 1,
+            "ranks": [
+              43
+            ],
+            "avgRank": 43,
+            "strength": 28,
+            "competition": 20,
+            "opportunity": 67
+          },
+          {
+            "axis": "subject",
+            "axisLabel": "主体",
+            "value": "人物",
+            "count": 1,
+            "ranks": [
+              100
+            ],
+            "avgRank": 100,
+            "strength": 8,
+            "competition": 20,
+            "opportunity": 43
           },
           {
             "axis": "subject",
             "axisLabel": "主体",
             "value": "食べ物",
-            "count": 2,
-            "ranks": [
-              65,
-              102
-            ],
-            "avgRank": 84,
-            "strength": 19,
-            "competition": 28,
-            "opportunity": 52
-          },
-          {
-            "axis": "subject",
-            "axisLabel": "主体",
-            "value": "鳥",
             "count": 1,
             "ranks": [
-              104
+              102
             ],
-            "avgRank": 104,
-            "strength": 7,
+            "avgRank": 102,
+            "strength": 8,
             "competition": 20,
-            "opportunity": 42
+            "opportunity": 43
           }
         ]
       },
@@ -592,15 +806,28 @@
           {
             "axis": "relation",
             "axisLabel": "関係性",
+            "value": "友人",
+            "count": 1,
+            "ranks": [
+              82
+            ],
+            "avgRank": 82,
+            "strength": 15,
+            "competition": 20,
+            "opportunity": 51
+          },
+          {
+            "axis": "relation",
+            "axisLabel": "関係性",
             "value": "家族",
             "count": 1,
             "ranks": [
-              84
+              100
             ],
-            "avgRank": 84,
-            "strength": 14,
+            "avgRank": 100,
+            "strength": 8,
             "competition": 20,
-            "opportunity": 50
+            "opportunity": 43
           },
           {
             "axis": "relation",
@@ -608,12 +835,12 @@
             "value": "恋人",
             "count": 1,
             "ranks": [
-              84
+              100
             ],
-            "avgRank": 84,
-            "strength": 14,
+            "avgRank": 100,
+            "strength": 8,
             "competition": 20,
-            "opportunity": 50
+            "opportunity": 43
           }
         ]
       },
@@ -625,15 +852,27 @@
             "axis": "function",
             "axisLabel": "会話機能",
             "value": "拒否",
-            "count": 2,
+            "count": 1,
             "ranks": [
-              61,
-              79
+              95
             ],
-            "avgRank": 70,
-            "strength": 23,
-            "competition": 28,
-            "opportunity": 57
+            "avgRank": 95,
+            "strength": 10,
+            "competition": 20,
+            "opportunity": 46
+          },
+          {
+            "axis": "function",
+            "axisLabel": "会話機能",
+            "value": "催促",
+            "count": 1,
+            "ranks": [
+              105
+            ],
+            "avgRank": 105,
+            "strength": 6,
+            "competition": 20,
+            "opportunity": 41
           }
         ]
       },
@@ -647,13 +886,13 @@
             "value": "照れ",
             "count": 2,
             "ranks": [
-              18,
-              51
+              20,
+              59
             ],
-            "avgRank": 35,
-            "strength": 36,
+            "avgRank": 40,
+            "strength": 34,
             "competition": 28,
-            "opportunity": 72
+            "opportunity": 70
           }
         ]
       },
@@ -665,17 +904,41 @@
             "axis": "personality",
             "axisLabel": "人格",
             "value": "毒舌",
-            "count": 4,
+            "count": 2,
             "ranks": [
-              44,
-              67,
-              74,
-              104
+              77,
+              106
             ],
-            "avgRank": 72,
-            "strength": 32,
-            "competition": 44,
-            "opportunity": 59
+            "avgRank": 92,
+            "strength": 16,
+            "competition": 28,
+            "opportunity": 48
+          },
+          {
+            "axis": "personality",
+            "axisLabel": "人格",
+            "value": "世話焼き",
+            "count": 1,
+            "ranks": [
+              78
+            ],
+            "avgRank": 78,
+            "strength": 16,
+            "competition": 20,
+            "opportunity": 53
+          },
+          {
+            "axis": "personality",
+            "axisLabel": "人格",
+            "value": "強気",
+            "count": 1,
+            "ranks": [
+              92
+            ],
+            "avgRank": 92,
+            "strength": 11,
+            "competition": 20,
+            "opportunity": 47
           }
         ]
       },
@@ -689,25 +952,39 @@
             "value": "甘い",
             "count": 1,
             "ranks": [
-              18
+              20
             ],
-            "avgRank": 18,
-            "strength": 37,
+            "avgRank": 20,
+            "strength": 36,
             "competition": 20,
-            "opportunity": 78
+            "opportunity": 77
           },
           {
             "axis": "tone",
             "axisLabel": "言葉の温度",
-            "value": "やさしい",
+            "value": "敬語",
+            "count": 2,
+            "ranks": [
+              62,
+              105
+            ],
+            "avgRank": 84,
+            "strength": 19,
+            "competition": 28,
+            "opportunity": 52
+          },
+          {
+            "axis": "tone",
+            "axisLabel": "言葉の温度",
+            "value": "圧あり",
             "count": 1,
             "ranks": [
-              45
+              92
             ],
-            "avgRank": 45,
-            "strength": 27,
+            "avgRank": 92,
+            "strength": 11,
             "competition": 20,
-            "opportunity": 67
+            "opportunity": 47
           },
           {
             "axis": "tone",
@@ -715,25 +992,12 @@
             "value": "タメ口",
             "count": 1,
             "ranks": [
-              83
+              97
             ],
-            "avgRank": 83,
-            "strength": 14,
+            "avgRank": 97,
+            "strength": 9,
             "competition": 20,
-            "opportunity": 51
-          },
-          {
-            "axis": "tone",
-            "axisLabel": "言葉の温度",
-            "value": "敬語",
-            "count": 1,
-            "ranks": [
-              86
-            ],
-            "avgRank": 86,
-            "strength": 13,
-            "competition": 20,
-            "opportunity": 49
+            "opportunity": 45
           }
         ]
       },
@@ -745,27 +1009,16 @@
             "axis": "visual",
             "axisLabel": "表現",
             "value": "かわいい",
-            "count": 1,
+            "count": 3,
             "ranks": [
-              28
+              39,
+              82,
+              105
             ],
-            "avgRank": 28,
-            "strength": 33,
-            "competition": 20,
-            "opportunity": 74
-          },
-          {
-            "axis": "visual",
-            "axisLabel": "表現",
-            "value": "シュール",
-            "count": 1,
-            "ranks": [
-              103
-            ],
-            "avgRank": 103,
-            "strength": 7,
-            "competition": 20,
-            "opportunity": 42
+            "avgRank": 75,
+            "strength": 26,
+            "competition": 36,
+            "opportunity": 56
           }
         ]
       },
@@ -776,32 +1029,31 @@
           {
             "axis": "need",
             "axisLabel": "心理欲求",
-            "value": "本音代弁",
-            "count": 4,
+            "value": "距離を縮める",
+            "count": 3,
             "ranks": [
-              44,
-              67,
-              74,
-              104
+              20,
+              82,
+              100
             ],
-            "avgRank": 72,
-            "strength": 32,
-            "competition": 44,
-            "opportunity": 59
+            "avgRank": 67,
+            "strength": 29,
+            "competition": 36,
+            "opportunity": 60
           },
           {
             "axis": "need",
             "axisLabel": "心理欲求",
-            "value": "距離を縮める",
+            "value": "本音代弁",
             "count": 2,
             "ranks": [
-              18,
-              84
+              77,
+              106
             ],
-            "avgRank": 51,
-            "strength": 30,
+            "avgRank": 92,
+            "strength": 16,
             "competition": 28,
-            "opportunity": 65
+            "opportunity": 48
           },
           {
             "axis": "need",
@@ -809,25 +1061,12 @@
             "value": "角を立てない",
             "count": 1,
             "ranks": [
-              45
+              105
             ],
-            "avgRank": 45,
-            "strength": 27,
+            "avgRank": 105,
+            "strength": 6,
             "competition": 20,
-            "opportunity": 67
-          },
-          {
-            "axis": "need",
-            "axisLabel": "心理欲求",
-            "value": "笑わせる",
-            "count": 1,
-            "ranks": [
-              103
-            ],
-            "avgRank": 103,
-            "strength": 7,
-            "competition": 20,
-            "opportunity": 42
+            "opportunity": 41
           }
         ]
       }
@@ -847,9 +1086,9 @@
           }
         ],
         "count": 1,
-        "avgRank": 18,
+        "avgRank": 20,
         "scarcity": 88,
-        "score": 79
+        "score": 78
       },
       {
         "parts": [
@@ -865,9 +1104,9 @@
           }
         ],
         "count": 1,
-        "avgRank": 18,
+        "avgRank": 20,
         "scarcity": 88,
-        "score": 79
+        "score": 78
       },
       {
         "parts": [
@@ -883,9 +1122,9 @@
           }
         ],
         "count": 1,
-        "avgRank": 18,
+        "avgRank": 20,
         "scarcity": 88,
-        "score": 79
+        "score": 78
       },
       {
         "parts": [
@@ -901,45 +1140,9 @@
           }
         ],
         "count": 1,
-        "avgRank": 28,
+        "avgRank": 39,
         "scarcity": 88,
-        "score": 74
-      },
-      {
-        "parts": [
-          {
-            "axis": "tone",
-            "axisLabel": "言葉の温度",
-            "value": "やさしい"
-          },
-          {
-            "axis": "need",
-            "axisLabel": "心理欲求",
-            "value": "角を立てない"
-          }
-        ],
-        "count": 1,
-        "avgRank": 45,
-        "scarcity": 88,
-        "score": 66
-      },
-      {
-        "parts": [
-          {
-            "axis": "personality",
-            "axisLabel": "人格",
-            "value": "毒舌"
-          },
-          {
-            "axis": "need",
-            "axisLabel": "心理欲求",
-            "value": "本音代弁"
-          }
-        ],
-        "count": 4,
-        "avgRank": 72,
-        "scarcity": 52,
-        "score": 63
+        "score": 69
       },
       {
         "parts": [
@@ -955,52 +1158,52 @@
           }
         ],
         "count": 1,
-        "avgRank": 51,
+        "avgRank": 59,
         "scarcity": 88,
-        "score": 63
+        "score": 59
       },
       {
         "parts": [
           {
             "axis": "subject",
             "axisLabel": "主体",
-            "value": "人物"
+            "value": "猫"
           },
           {
             "axis": "relation",
             "axisLabel": "関係性",
-            "value": "家族"
+            "value": "友人"
           }
         ],
         "count": 1,
-        "avgRank": 84,
+        "avgRank": 82,
         "scarcity": 88,
-        "score": 46
+        "score": 47
       },
       {
         "parts": [
           {
             "axis": "subject",
             "axisLabel": "主体",
-            "value": "人物"
+            "value": "猫"
           },
           {
-            "axis": "relation",
-            "axisLabel": "関係性",
-            "value": "恋人"
+            "axis": "visual",
+            "axisLabel": "表現",
+            "value": "かわいい"
           }
         ],
         "count": 1,
-        "avgRank": 84,
+        "avgRank": 82,
         "scarcity": 88,
-        "score": 46
+        "score": 47
       },
       {
         "parts": [
           {
             "axis": "subject",
             "axisLabel": "主体",
-            "value": "人物"
+            "value": "猫"
           },
           {
             "axis": "need",
@@ -1009,16 +1212,34 @@
           }
         ],
         "count": 1,
-        "avgRank": 84,
+        "avgRank": 82,
         "scarcity": 88,
-        "score": 46
+        "score": 47
       },
       {
         "parts": [
           {
             "axis": "relation",
             "axisLabel": "関係性",
-            "value": "家族"
+            "value": "友人"
+          },
+          {
+            "axis": "visual",
+            "axisLabel": "表現",
+            "value": "かわいい"
+          }
+        ],
+        "count": 1,
+        "avgRank": 82,
+        "scarcity": 88,
+        "score": 47
+      },
+      {
+        "parts": [
+          {
+            "axis": "relation",
+            "axisLabel": "関係性",
+            "value": "友人"
           },
           {
             "axis": "need",
@@ -1027,70 +1248,34 @@
           }
         ],
         "count": 1,
-        "avgRank": 84,
+        "avgRank": 82,
         "scarcity": 88,
-        "score": 46
-      },
-      {
-        "parts": [
-          {
-            "axis": "relation",
-            "axisLabel": "関係性",
-            "value": "恋人"
-          },
-          {
-            "axis": "need",
-            "axisLabel": "心理欲求",
-            "value": "距離を縮める"
-          }
-        ],
-        "count": 1,
-        "avgRank": 84,
-        "scarcity": 88,
-        "score": 46
+        "score": 47
       },
       {
         "parts": [
           {
             "axis": "visual",
             "axisLabel": "表現",
-            "value": "シュール"
+            "value": "かわいい"
           },
           {
             "axis": "need",
             "axisLabel": "心理欲求",
-            "value": "笑わせる"
+            "value": "距離を縮める"
           }
         ],
         "count": 1,
-        "avgRank": 103,
+        "avgRank": 82,
         "scarcity": 88,
-        "score": 37
+        "score": 47
       },
       {
         "parts": [
-          {
-            "axis": "subject",
-            "axisLabel": "主体",
-            "value": "鳥"
-          },
           {
             "axis": "personality",
             "axisLabel": "人格",
             "value": "毒舌"
-          }
-        ],
-        "count": 1,
-        "avgRank": 104,
-        "scarcity": 88,
-        "score": 36
-      },
-      {
-        "parts": [
-          {
-            "axis": "subject",
-            "axisLabel": "主体",
-            "value": "鳥"
           },
           {
             "axis": "need",
@@ -1098,10 +1283,64 @@
             "value": "本音代弁"
           }
         ],
+        "count": 2,
+        "avgRank": 92,
+        "scarcity": 76,
+        "score": 46
+      },
+      {
+        "parts": [
+          {
+            "axis": "personality",
+            "axisLabel": "人格",
+            "value": "強気"
+          },
+          {
+            "axis": "tone",
+            "axisLabel": "言葉の温度",
+            "value": "圧あり"
+          }
+        ],
         "count": 1,
-        "avgRank": 104,
+        "avgRank": 92,
         "scarcity": 88,
-        "score": 36
+        "score": 42
+      },
+      {
+        "parts": [
+          {
+            "axis": "subject",
+            "axisLabel": "主体",
+            "value": "人物"
+          },
+          {
+            "axis": "relation",
+            "axisLabel": "関係性",
+            "value": "家族"
+          }
+        ],
+        "count": 1,
+        "avgRank": 100,
+        "scarcity": 88,
+        "score": 38
+      },
+      {
+        "parts": [
+          {
+            "axis": "subject",
+            "axisLabel": "主体",
+            "value": "人物"
+          },
+          {
+            "axis": "relation",
+            "axisLabel": "関係性",
+            "value": "恋人"
+          }
+        ],
+        "count": 1,
+        "avgRank": 100,
+        "scarcity": 88,
+        "score": 38
       }
     ],
     "marketGaps": [
@@ -1111,25 +1350,12 @@
         "value": "甘い",
         "count": 1,
         "ranks": [
-          18
+          20
         ],
-        "avgRank": 18,
-        "strength": 37,
+        "avgRank": 20,
+        "strength": 36,
         "competition": 20,
-        "opportunity": 78
-      },
-      {
-        "axis": "visual",
-        "axisLabel": "表現",
-        "value": "かわいい",
-        "count": 1,
-        "ranks": [
-          28
-        ],
-        "avgRank": 28,
-        "strength": 33,
-        "competition": 20,
-        "opportunity": 74
+        "opportunity": 77
       },
       {
         "axis": "emotion",
@@ -1137,53 +1363,39 @@
         "value": "照れ",
         "count": 2,
         "ranks": [
-          18,
-          51
+          20,
+          59
         ],
-        "avgRank": 35,
-        "strength": 36,
+        "avgRank": 40,
+        "strength": 34,
         "competition": 28,
-        "opportunity": 72
+        "opportunity": 70
       },
       {
         "axis": "subject",
         "axisLabel": "主体",
-        "value": "犬",
-        "count": 4,
+        "value": "うさぎ",
+        "count": 3,
         "ranks": [
-          28,
-          30,
-          47,
-          85
+          21,
+          59,
+          69
         ],
-        "avgRank": 48,
-        "strength": 41,
-        "competition": 44,
-        "opportunity": 69
-      },
-      {
-        "axis": "tone",
-        "axisLabel": "言葉の温度",
-        "value": "やさしい",
-        "count": 1,
-        "ranks": [
-          45
-        ],
-        "avgRank": 45,
-        "strength": 27,
-        "competition": 20,
+        "avgRank": 50,
+        "strength": 35,
+        "competition": 36,
         "opportunity": 67
       },
       {
-        "axis": "need",
-        "axisLabel": "心理欲求",
-        "value": "角を立てない",
+        "axis": "subject",
+        "axisLabel": "主体",
+        "value": "くま",
         "count": 1,
         "ranks": [
-          45
+          43
         ],
-        "avgRank": 45,
-        "strength": 27,
+        "avgRank": 43,
+        "strength": 28,
         "competition": 20,
         "opportunity": 67
       },
@@ -1191,89 +1403,112 @@
         "axis": "need",
         "axisLabel": "心理欲求",
         "value": "距離を縮める",
-        "count": 2,
+        "count": 3,
         "ranks": [
-          18,
-          84
+          20,
+          82,
+          100
         ],
-        "avgRank": 51,
-        "strength": 30,
-        "competition": 28,
-        "opportunity": 65
+        "avgRank": 67,
+        "strength": 29,
+        "competition": 36,
+        "opportunity": 60
       },
       {
-        "axis": "subject",
-        "axisLabel": "主体",
-        "value": "人物",
+        "axis": "visual",
+        "axisLabel": "表現",
+        "value": "かわいい",
+        "count": 3,
+        "ranks": [
+          39,
+          82,
+          105
+        ],
+        "avgRank": 75,
+        "strength": 26,
+        "competition": 36,
+        "opportunity": 56
+      },
+      {
+        "axis": "personality",
+        "axisLabel": "人格",
+        "value": "世話焼き",
+        "count": 1,
+        "ranks": [
+          78
+        ],
+        "avgRank": 78,
+        "strength": 16,
+        "competition": 20,
+        "opportunity": 53
+      },
+      {
+        "axis": "tone",
+        "axisLabel": "言葉の温度",
+        "value": "敬語",
         "count": 2,
         "ranks": [
-          24,
-          84
+          62,
+          105
         ],
-        "avgRank": 54,
-        "strength": 29,
+        "avgRank": 84,
+        "strength": 19,
         "competition": 28,
-        "opportunity": 64
+        "opportunity": 52
+      },
+      {
+        "axis": "relation",
+        "axisLabel": "関係性",
+        "value": "友人",
+        "count": 1,
+        "ranks": [
+          82
+        ],
+        "avgRank": 82,
+        "strength": 15,
+        "competition": 20,
+        "opportunity": 51
       },
       {
         "axis": "personality",
         "axisLabel": "人格",
         "value": "毒舌",
-        "count": 4,
+        "count": 2,
         "ranks": [
-          44,
-          67,
-          74,
-          104
+          77,
+          106
         ],
-        "avgRank": 72,
-        "strength": 32,
-        "competition": 44,
-        "opportunity": 59
+        "avgRank": 92,
+        "strength": 16,
+        "competition": 28,
+        "opportunity": 48
       },
       {
         "axis": "need",
         "axisLabel": "心理欲求",
         "value": "本音代弁",
-        "count": 4,
-        "ranks": [
-          44,
-          67,
-          74,
-          104
-        ],
-        "avgRank": 72,
-        "strength": 32,
-        "competition": 44,
-        "opportunity": 59
-      },
-      {
-        "axis": "subject",
-        "axisLabel": "主体",
-        "value": "うさぎ",
         "count": 2,
         "ranks": [
-          51,
-          88
+          77,
+          106
         ],
-        "avgRank": 70,
-        "strength": 24,
+        "avgRank": 92,
+        "strength": 16,
         "competition": 28,
-        "opportunity": 57
+        "opportunity": 48
       },
       {
-        "axis": "function",
-        "axisLabel": "会話機能",
-        "value": "拒否",
-        "count": 2,
+        "axis": "personality",
+        "axisLabel": "人格",
+        "value": "強気",
+        "count": 1,
         "ranks": [
-          61,
-          79
+          92
         ],
-        "avgRank": 70,
-        "strength": 23,
-        "competition": 28,
-        "opportunity": 57
+        "avgRank": 92,
+        "strength": 11,
+        "competition": 20,
+        "opportunity": 47
       }
     ]
   },
@@ -1282,35 +1517,38 @@
       "axis": "subject",
       "axisLabel": "主体",
       "value": "猫",
-      "count": 6,
+      "count": 8,
       "ranks": [
-        22,
-        37,
-        50,
-        73,
+        40,
+        42,
+        63,
+        66,
         80,
-        94
+        82,
+        93,
+        103
       ],
-      "avgRank": 59,
-      "strength": 46,
-      "competition": 60,
-      "opportunity": 66
+      "avgRank": 71,
+      "strength": 51,
+      "competition": 76,
+      "opportunity": 54
     },
     {
       "axis": "subject",
       "axisLabel": "主体",
       "value": "犬",
-      "count": 4,
+      "count": 5,
       "ranks": [
-        28,
-        30,
-        47,
+        13,
+        39,
+        48,
+        60,
         85
       ],
-      "avgRank": 48,
-      "strength": 41,
-      "competition": 44,
-      "opportunity": 69
+      "avgRank": 49,
+      "strength": 45,
+      "competition": 52,
+      "opportunity": 70
     },
     {
       "axis": "tone",
@@ -1318,12 +1556,27 @@
       "value": "甘い",
       "count": 1,
       "ranks": [
-        18
+        20
       ],
-      "avgRank": 18,
-      "strength": 37,
+      "avgRank": 20,
+      "strength": 36,
       "competition": 20,
-      "opportunity": 78
+      "opportunity": 77
+    },
+    {
+      "axis": "subject",
+      "axisLabel": "主体",
+      "value": "うさぎ",
+      "count": 3,
+      "ranks": [
+        21,
+        59,
+        69
+      ],
+      "avgRank": 50,
+      "strength": 35,
+      "competition": 36,
+      "opportunity": 67
     },
     {
       "axis": "emotion",
@@ -1331,149 +1584,65 @@
       "value": "照れ",
       "count": 2,
       "ranks": [
-        18,
-        51
+        20,
+        59
       ],
-      "avgRank": 35,
-      "strength": 36,
+      "avgRank": 40,
+      "strength": 34,
       "competition": 28,
-      "opportunity": 72
-    },
-    {
-      "axis": "visual",
-      "axisLabel": "表現",
-      "value": "かわいい",
-      "count": 1,
-      "ranks": [
-        28
-      ],
-      "avgRank": 28,
-      "strength": 33,
-      "competition": 20,
-      "opportunity": 74
-    },
-    {
-      "axis": "personality",
-      "axisLabel": "人格",
-      "value": "毒舌",
-      "count": 4,
-      "ranks": [
-        44,
-        67,
-        74,
-        104
-      ],
-      "avgRank": 72,
-      "strength": 32,
-      "competition": 44,
-      "opportunity": 59
-    },
-    {
-      "axis": "need",
-      "axisLabel": "心理欲求",
-      "value": "本音代弁",
-      "count": 4,
-      "ranks": [
-        44,
-        67,
-        74,
-        104
-      ],
-      "avgRank": 72,
-      "strength": 32,
-      "competition": 44,
-      "opportunity": 59
+      "opportunity": 70
     },
     {
       "axis": "need",
       "axisLabel": "心理欲求",
       "value": "距離を縮める",
-      "count": 2,
+      "count": 3,
       "ranks": [
-        18,
-        84
+        20,
+        82,
+        100
       ],
-      "avgRank": 51,
-      "strength": 30,
-      "competition": 28,
-      "opportunity": 65
+      "avgRank": 67,
+      "strength": 29,
+      "competition": 36,
+      "opportunity": 60
     },
     {
       "axis": "subject",
       "axisLabel": "主体",
-      "value": "人物",
-      "count": 2,
+      "value": "くま",
+      "count": 1,
       "ranks": [
-        24,
-        84
+        43
       ],
-      "avgRank": 54,
-      "strength": 29,
-      "competition": 28,
-      "opportunity": 64
+      "avgRank": 43,
+      "strength": 28,
+      "competition": 20,
+      "opportunity": 67
+    },
+    {
+      "axis": "visual",
+      "axisLabel": "表現",
+      "value": "かわいい",
+      "count": 3,
+      "ranks": [
+        39,
+        82,
+        105
+      ],
+      "avgRank": 75,
+      "strength": 26,
+      "competition": 36,
+      "opportunity": 56
     },
     {
       "axis": "tone",
       "axisLabel": "言葉の温度",
-      "value": "やさしい",
-      "count": 1,
-      "ranks": [
-        45
-      ],
-      "avgRank": 45,
-      "strength": 27,
-      "competition": 20,
-      "opportunity": 67
-    },
-    {
-      "axis": "need",
-      "axisLabel": "心理欲求",
-      "value": "角を立てない",
-      "count": 1,
-      "ranks": [
-        45
-      ],
-      "avgRank": 45,
-      "strength": 27,
-      "competition": 20,
-      "opportunity": 67
-    },
-    {
-      "axis": "subject",
-      "axisLabel": "主体",
-      "value": "うさぎ",
+      "value": "敬語",
       "count": 2,
       "ranks": [
-        51,
-        88
-      ],
-      "avgRank": 70,
-      "strength": 24,
-      "competition": 28,
-      "opportunity": 57
-    },
-    {
-      "axis": "function",
-      "axisLabel": "会話機能",
-      "value": "拒否",
-      "count": 2,
-      "ranks": [
-        61,
-        79
-      ],
-      "avgRank": 70,
-      "strength": 23,
-      "competition": 28,
-      "opportunity": 57
-    },
-    {
-      "axis": "subject",
-      "axisLabel": "主体",
-      "value": "食べ物",
-      "count": 2,
-      "ranks": [
-        65,
-        102
+        62,
+        105
       ],
       "avgRank": 84,
       "strength": 19,
@@ -1481,43 +1650,126 @@
       "opportunity": 52
     },
     {
-      "axis": "tone",
-      "axisLabel": "言葉の温度",
-      "value": "タメ口",
+      "axis": "personality",
+      "axisLabel": "人格",
+      "value": "毒舌",
+      "count": 2,
+      "ranks": [
+        77,
+        106
+      ],
+      "avgRank": 92,
+      "strength": 16,
+      "competition": 28,
+      "opportunity": 48
+    },
+    {
+      "axis": "need",
+      "axisLabel": "心理欲求",
+      "value": "本音代弁",
+      "count": 2,
+      "ranks": [
+        77,
+        106
+      ],
+      "avgRank": 92,
+      "strength": 16,
+      "competition": 28,
+      "opportunity": 48
+    },
+    {
+      "axis": "personality",
+      "axisLabel": "人格",
+      "value": "世話焼き",
       "count": 1,
       "ranks": [
-        83
+        78
       ],
-      "avgRank": 83,
-      "strength": 14,
+      "avgRank": 78,
+      "strength": 16,
       "competition": 20,
-      "opportunity": 51
+      "opportunity": 53
     },
     {
       "axis": "relation",
       "axisLabel": "関係性",
-      "value": "家族",
+      "value": "友人",
       "count": 1,
       "ranks": [
-        84
+        82
       ],
-      "avgRank": 84,
-      "strength": 14,
+      "avgRank": 82,
+      "strength": 15,
       "competition": 20,
-      "opportunity": 50
+      "opportunity": 51
+    },
+    {
+      "axis": "personality",
+      "axisLabel": "人格",
+      "value": "強気",
+      "count": 1,
+      "ranks": [
+        92
+      ],
+      "avgRank": 92,
+      "strength": 11,
+      "competition": 20,
+      "opportunity": 47
+    },
+    {
+      "axis": "tone",
+      "axisLabel": "言葉の温度",
+      "value": "圧あり",
+      "count": 1,
+      "ranks": [
+        92
+      ],
+      "avgRank": 92,
+      "strength": 11,
+      "competition": 20,
+      "opportunity": 47
+    },
+    {
+      "axis": "function",
+      "axisLabel": "会話機能",
+      "value": "拒否",
+      "count": 1,
+      "ranks": [
+        95
+      ],
+      "avgRank": 95,
+      "strength": 10,
+      "competition": 20,
+      "opportunity": 46
     }
   ],
   "ranking": [
     {
-      "rank": 12,
-      "title": "ず～っと使える♡シンプルの大人スタンプ",
+      "rank": 5,
+      "title": "Animation only icon もちわさ日3(文字あり)",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36131467/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/36131467/ja?country=JP",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36129073/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36129073/ja?country=JP",
       "features": []
     },
     {
-      "rank": 15,
+      "rank": 7,
+      "title": "ず～っと使える♡お祝い専用大人ver",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/25915039/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/25915039/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 8,
+      "title": "Popup only icon 飛び出す★リアルゴリラ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35974157/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35974157/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 9,
       "title": "グラニフ「イカク」の毎日使えるスタンプ",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35975551/LINEStorePC/main.png",
@@ -1525,7 +1777,17 @@
       "features": []
     },
     {
-      "rank": 17,
+      "rank": 13,
+      "title": "Animation only icon 動く！柴犬（黒柴・文字なし）",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36151330/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36151330/ja?country=JP",
+      "features": [
+        "主体:犬"
+      ]
+    },
+    {
+      "rank": 18,
       "title": "超かぐや姫！Vol.3",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36050055/LINEStorePC/main.png",
@@ -1533,7 +1795,7 @@
       "features": []
     },
     {
-      "rank": 18,
+      "rank": 20,
       "title": "ドラマ『君の好きは無敵』",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35728203/LINEStorePC/main.png",
@@ -1545,15 +1807,17 @@
       ]
     },
     {
-      "rank": 19,
-      "title": "Animation only icon もちわさ日3(文字あり)",
+      "rank": 21,
+      "title": "Animation only icon フィットネスネギうさぎ",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36129073/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/36129073/ja?country=JP",
-      "features": []
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36217463/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36217463/ja?country=JP",
+      "features": [
+        "主体:うさぎ"
+      ]
     },
     {
-      "rank": 21,
+      "rank": 23,
       "title": "Animation only icon 動く！ちょこちょこモンチッチ♪",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35777223/LINEStorePC/main.png",
@@ -1561,17 +1825,15 @@
       "features": []
     },
     {
-      "rank": 22,
-      "title": "Animation only icon 動く♪猫のつめあわせ【リアル猫】",
+      "rank": 24,
+      "title": "Popup only icon 飛び出す♡ネガティブandポジティブ",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35815184/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35815184/ja?country=JP",
-      "features": [
-        "主体:猫"
-      ]
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36109733/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36109733/ja?country=JP",
+      "features": []
     },
     {
-      "rank": 23,
+      "rank": 25,
       "title": "Animation only icon にっこりリアクション（文字付き）",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/30114786/LINEStorePC/main.png",
@@ -1579,25 +1841,15 @@
       "features": []
     },
     {
-      "rank": 24,
-      "title": "男前ハシビロコウ",
+      "rank": 26,
+      "title": "Animation only icon もちわさ日3(文字なし)",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35810828/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35810828/ja?country=JP",
-      "features": [
-        "主体:人物"
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "Animation only icon にっこりダンス（文字付き）",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/26614851/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/26614851/ja?country=JP",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36129060/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36129060/ja?country=JP",
       "features": []
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "架空の神/架空のギリシャ神話",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/29460203/LINEStorePC/main.png",
@@ -1606,6 +1858,78 @@
     },
     {
       "rank": 28,
+      "title": "Animation only icon にっこりダンス（文字付き）",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/26614851/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/26614851/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 29,
+      "title": "ラブラビットだけどいいの？",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35727911/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35727911/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 30,
+      "title": "Animation only icon 夏だ！クソハム＆コビハムちゃん（うごく）",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35972019/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35972019/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 31,
+      "title": "Animation only icon もちわさ日2(文字あり)",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34762231/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/34762231/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 32,
+      "title": "Animation only icon もちにゃみ3",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33896433/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33896433/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 33,
+      "title": "Animation only icon FRIC 27",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35735191/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35735191/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 34,
+      "title": "Animation only icon うごくぞ！コビハムちゃん",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34552095/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/34552095/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 36,
+      "title": "Animation only icon うごく！ピングーの名場面スタンプ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33659115/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/33659115/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 38,
+      "title": "Animation only icon もちにゃみ",
+      "creator": "LINE STORE（作者情報は商品ページで補完）",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/26601582/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/26601582/ja?country=JP",
+      "features": []
+    },
+    {
+      "rank": 39,
       "title": "脱力系・呟き・独り言｜柴犬のゆるい日常",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36177873/LINEStorePC/main.png",
@@ -1616,57 +1940,45 @@
       ]
     },
     {
-      "rank": 29,
-      "title": "Animation only icon もちにゃみ3",
+      "rank": 40,
+      "title": "Animation only icon ウザく動く！ウザ～～い猫6",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33896433/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/33896433/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 30,
-      "title": "Animation only icon 動く！柴犬（黒柴・文字なし）",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36151330/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/36151330/ja?country=JP",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35861130/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35861130/ja?country=JP",
       "features": [
-        "主体:犬"
+        "主体:猫"
       ]
     },
     {
-      "rank": 31,
-      "title": "ラブラビットだけどいいの？",
+      "rank": 41,
+      "title": "体調不良なはぴきゃと！具合が悪い日用",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35727911/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35727911/ja?country=JP",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35449831/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/35449831/ja?country=JP",
       "features": []
     },
     {
-      "rank": 32,
-      "title": "Animation only icon FRIC 27",
+      "rank": 42,
+      "title": "猫たちの防災スタンプ",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35735191/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35735191/ja?country=JP",
-      "features": []
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/26051997/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/26051997/ja?country=JP",
+      "features": [
+        "主体:猫"
+      ]
     },
     {
-      "rank": 33,
-      "title": "Animation only icon いくぜの動くハッピースタンプ",
+      "rank": 43,
+      "title": "Animation only icon ◯がんばれ！動くクマとゴリラと仲間たち◯",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34555753/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/34555753/ja?country=JP",
-      "features": []
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36134292/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36134292/ja?country=JP",
+      "features": [
+        "主体:くま"
+      ]
     },
     {
-      "rank": 34,
-      "title": "Animation only icon うごく！ピングーの名場面スタンプ",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33659115/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/33659115/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 35,
+      "rank": 44,
       "title": "りっこ２８",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33140327/LINEStorePC/main.png",
@@ -1674,49 +1986,7 @@
       "features": []
     },
     {
-      "rank": 36,
-      "title": "からぴちと毎日いっしょ！スタンプ",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/33806509/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/33806509/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 37,
-      "title": "ずっと使える♪ふんわり猫ちゃん",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35370422/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35370422/ja?country=JP",
-      "features": [
-        "主体:猫"
-      ]
-    },
-    {
-      "rank": 38,
-      "title": "Animation only icon うごくぞ！コビハムちゃん",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34552095/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/34552095/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 39,
-      "title": "Animation only icon もちにゃみ",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/26601582/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/26601582/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 40,
-      "title": "Animation only icon ブロスタしよう！！",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/34130688/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/34130688/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 41,
+      "rank": 45,
       "title": "コビハムちゃん２",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
       "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/25972953/LINEStorePC/main.png",
@@ -1724,52 +1994,12 @@
       "features": []
     },
     {
-      "rank": 43,
-      "title": "チャラ孫とばぁば。",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35904529/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35904529/ja?country=JP",
-      "features": []
-    },
-    {
-      "rank": 44,
-      "title": "神様は実は毒舌2",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35821257/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35821257/ja?country=JP",
-      "features": [
-        "人格:毒舌",
-        "心理欲求:本音代弁"
-      ]
-    },
-    {
-      "rank": 45,
-      "title": "ず〜っと使える♡やさしい終わりのスタンプ",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/30371029/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/30371029/ja?country=JP",
-      "features": [
-        "言葉の温度:やさしい",
-        "心理欲求:角を立てない"
-      ]
-    },
-    {
       "rank": 46,
-      "title": "動物たちは口が悪い",
+      "title": "Animation only icon あばれ馬11～ダジャレ～",
       "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35987567/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35987567/ja?country=JP",
+      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/36025061/LINEStorePC/main.png",
+      "url": "https://store.line.me/stickershop/product/36025061/ja?country=JP",
       "features": []
-    },
-    {
-      "rank": 47,
-      "title": "Animation only icon 動く！柴犬（赤柴・文字なし）",
-      "creator": "LINE STORE（作者情報は商品ページで補完）",
-      "imageUrl": "https://stickershop.line-scdn.net/stickershop/v1/product/35814603/LINEStorePC/main.png",
-      "url": "https://store.line.me/stickershop/product/35814603/ja?country=JP",
-      "features": [
-        "主体:犬"
-      ]
     }
   ]
 }
