@@ -1,0 +1,18 @@
+{
+  "source": "Google Trends RSS JP",
+  "updatedAt": "2026-09-07T13:04:00Z",
+  "current": [
+    {"title":"jr東日本","traffic":"100K+","news":[]},
+    {"title":"天気予報 大雨","traffic":"200K+","news":[]},
+    {"title":"河川","traffic":"500K+","news":[]},
+    {"title":"湘南新宿ライン","traffic":"100K+","news":[]}
+  ],
+  "snapshots": [
+    {"capturedAt":"2026-09-07T13:04:00Z","items":[
+      {"title":"jr東日本","traffic":"100K+","news":[]},
+      {"title":"天気予報 大雨","traffic":"200K+","news":[]},
+      {"title":"河川","traffic":"500K+","news":[]},
+      {"title":"湘南新宿ライン","traffic":"100K+","news":[]}
+    ]}
+  ]
+}
