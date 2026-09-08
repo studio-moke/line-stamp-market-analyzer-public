@@ -1,94 +1,95 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-09-08T12:15:56.177690Z",
+  "updatedAt": "2026-09-08T18:14:18.704093Z",
   "current": [
     {
-      "title": "進藤勇也",
+      "title": "中道改革連合",
+      "traffic": "200+",
+      "news": [
+        "【独自】中道 党は残し立憲系と公明系議員が離党へ 公明出身議員は公明党に復党し、立憲出身議員は新党を立ち上げへ",
+        "中道 立民と公明出身者に分かれ衆院統一会派結成の方向で調整",
+        "立民系は新党、公明系は復党 中道分裂、統一会派目指す：時事ドットコム"
+      ]
+    },
+    {
+      "title": "apple",
       "traffic": "500+",
       "news": [
-        "《SHINJOの信条》あ、俺の間違いだ（笑）。セーフティーかと思った。あのヒットは大きかった",
-        "【楽天】日本ハムに同一カード３連敗 負け越し２７でＣＳ進出の可能性が消滅（仙台放送）",
-        "清宮幸、三度目の正直 六回に勝ち越し３ラン―プロ野球・日本ハム"
+        "Apple Falls Before Ternus's First $54 Billion iPhone Test",
+        "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
+        "Apple to Kick Off Ternus Era With Its Biggest-Ever Slate of New Products"
       ]
     },
     {
-      "title": "ファイターズ",
-      "traffic": "500+",
-      "news": [
-        "メモリアルグルメ14品を発売！限定トレカもプレゼント！",
-        "FIGHTERS × ローソン ファイターズ熱闘応援キャンペーン",
-        "【北海道エリア】9/8(火)から開始！ファイターズ熱闘応援キャンペーン！｜ローソン公式サイト"
-      ]
-    },
-    {
-      "title": "愛子 内親王",
-      "traffic": "200+",
-      "news": [
-        "(3ページ目)愛子さま 2490円でも7万円でもワンピースに「清潔感」と「品ある可愛らしさ」の理由は「永遠に愛されるタイムレス」な装い〈皇室厳選スペシャル〉",
-        "大人の気品と愛らしさと。【愛子さま】お人柄あふれる「柄物ファッション」の軌跡",
-        "愛子さまのメイクが上品で洗練されて見える理由 美容ライターが解説 (2026年9月4日掲載)"
-      ]
-    },
-    {
-      "title": "岡林勇希",
-      "traffic": "200+",
-      "news": [
-        "【巨人】中日に痛恨の零敗 阪神と3差に...戸郷が石塚の失策絡み岡林にⅤ3ラン被弾 代打・ダルベック6回2死満塁で三振 再三の好機に1本出ず（TBS NEWS DIG Powered by JNN）",
-        "【巨人】戸郷翔征7回3失点で降板　石塚の失策から岡林に3ラン浴び約2カ月半ぶりの白星ならず",
-        "中日・岡林がスーパーキャッチ 投手の柳が肩をもみもみして労う ２死満塁で投手・戸郷の右中間への打球をぎりぎりで捕球"
-      ]
-    },
-    {
-      "title": "満塁ランニングホームラン",
-      "traffic": "2000+",
-      "news": [
-        "ソフトバンク周東佑京がパ史上6人目の満塁ランニングホームラン 1999年の小久保裕紀以来27年ぶり（西スポWEB OTTO!）",
-        "２番周東、球場沸かす＝先制２ランに好捕―プロ野球・ソフトバンク",
-        "ソフトバンク・周東佑京の超絶好守にみずほペイペイドームが歓喜 テレビ解説は「うそでしょ」"
-      ]
-    },
-    {
-      "title": "無名塾",
-      "traffic": "200+",
-      "news": [
-        "劇団「無名塾」が来年2月解散を発表 昨年死去の仲代達矢さん主宰（北國新聞社）",
-        "無名塾、2027年2月末をもって解散へ　創設者・仲代達矢さん死去から10ヶ月「遺してくれた言葉の真意に従いまして」役所広司、若村麻由美らを輩出",
-        "【超RIZIN.5】2年ぶり復帰の平本蓮「死闘上等。1番カッコいい勝ち方をする」久々の試合前も自然体"
-      ]
-    },
-    {
-      "title": "バロンドール",
-      "traffic": "200+",
-      "news": [
-        "“GK版バロンドール”のヤシン賞候補が発表！ 女子は山下杏也加、男子はクルトワやヴォジーニャらがノミネート",
-        "シモン、ラヤ、サフォノフ、ボジーニャ…なでしこ山下杏也加もノミネート!! バロンドール候補GK部門発表",
-        "バロンドールがDAZNに上陸、イベントは世界規模で配信へ"
-      ]
-    },
-    {
-      "title": "ソン・シギョン",
+      "title": "山 﨑 武司",
       "traffic": "100+",
       "news": [
-        "ソン・シギョン、210分にわたる名曲の饗宴…「with friends [さあ、今日は]」盛況のうちに終了",
-        "「ソン・シギョンがマエストロになった」···先輩歌手たちからリスペクトを受けたソンバラ [スター・イシュー]"
+        "元中日ドラゴンズ･山﨑武司氏の息子（30） 高級腕時計や現金をだまし取った罪の裁判 「ホストクラブへの返済に」 起訴内容認める（CBCテレビ）",
+        "ロレックスなどを所有者から騙し取った罪　元プロ野球選手の息子　初公判で起訴内容認める",
+        "ロレックスなど高級時計をだまし取ったなどとされる事件 元中日・山崎武司さんの息子が初公判で起訴内容を認める 名古屋地裁"
       ]
     },
     {
-      "title": "weather tomorrow",
-      "traffic": "5000+",
+      "title": "club brugge vs aston villa",
+      "traffic": "100+",
       "news": [
-        "Seoul wakes to crisp mornings, clear autumn skies",
-        "On Wednesday, the 9th, most parts of the country will be mostly clear and cool. However, strong wind..",
-        "Dew Forms on Grass for 'Baekro'; Mind the Wide Temperature Swings"
+        "Club Brugge vs Aston Villa: UEFA Champions League stats & head-to-head",
+        "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
+        "Champions League scoring started early by Villa's McGinn after record rate of goals last season"
       ]
     },
     {
-      "title": "日向坂46",
+      "title": "木原龍一",
+      "traffic": "500+",
+      "news": [
+        "木原龍一と6年間同居…25歳・女性有名人が明かした意外な関係〝再会〟2ショットに「びっくり」「とても良い思い出！」の声",
+        "「りくりゅう、何が正解？」 日曜に書く 論説委員・森田景史",
+        "（フィギュア #34）りくりゅう婚約 プロポーズ写真が語る“メモリアル”、記者が見た距離感"
+      ]
+    },
+    {
+      "title": "周東佑京 ランニングホームラン",
+      "traffic": "10000+",
+      "news": [
+        "ソフトバンク周東佑京がパ史上6人目の満塁ランニングホームラン 1999年の小久保裕紀以来27年ぶり（西スポWEB OTTO!）",
+        "【一問一答】山崎福也 悔やまれる序盤の失点「あそこはちょっと予想外というか…予想していなかったです」",
+        "【日本ハム】新庄監督「明日勝つのみ」連勝８でストップ、８回悪夢の10失点で大敗…"
+      ]
+    },
+    {
+      "title": "高崎俊吾 vivant",
       "traffic": "1000+",
       "news": [
-        "日向坂46森本茉莉が卒業発表、20年２月加入の三期生（日刊スポーツ）",
-        "吉野北人、元ヤクザ役で不安明かす 本宮泰風に助けられる「リアルなところは本宮さんが」",
-        "坂道グループ今年6人目の卒業発表 乃木坂・梅澤美波、吉田綾乃 日向坂・森本、山口 櫻坂・武元、増本"
+        "第7回 あの配膳係「沈」が登場！！悲鳴を上げる悪役たち…",
+        "「VIVANT悪役会議室」“フードロスニキ”登場 食事を渡さなかった理由聞かれ沈黙「意味深な笑み」「間が気になる」と反響",
+        "【実際の投稿】『VIVANT』”悪役会議室”の4ショット"
+      ]
+    },
+    {
+      "title": "アップル",
+      "traffic": "1000+",
+      "news": [
+        "Apple、折りたたみiPhoneの生産は1日数百台どまり 発売時に品薄の恐れ",
+        "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か（Bloomberg）",
+        "iPhone Ultraおいくらですか？ 最新予想がこちら (ギズモード・ジャパン)"
+      ]
+    },
+    {
+      "title": "champions league",
+      "traffic": "100+",
+      "news": [
+        "Champions League returns: Your views and predictions",
+        "UCL Fantasy 2026/27: Predicted Matchday 1 line-ups for all 36 teams",
+        "UEFA Champions League Matchday 1 schedule"
+      ]
+    },
+    {
+      "title": "今田美桜",
+      "traffic": "500+",
+      "news": [
+        "＜SixTONES松村北斗＞「力強い時間を共有できた」 台湾でファン3000人が熱狂 今田美桜とW主演映画イベントに登場",
+        "「鑑賞後も何日も感動にひたれる作品」 白鳥とコウモリ さとさんの映画レビュー（感想・評価）",
+        "今田美桜：「温かく歓迎していただいて、本当に感謝」 モノトーンコーデで台湾のイベントに"
       ]
     }
   ],
@@ -483,6 +484,101 @@
             "日向坂46森本茉莉が卒業発表、20年２月加入の三期生（日刊スポーツ）",
             "吉野北人、元ヤクザ役で不安明かす 本宮泰風に助けられる「リアルなところは本宮さんが」",
             "坂道グループ今年6人目の卒業発表 乃木坂・梅澤美波、吉田綾乃 日向坂・森本、山口 櫻坂・武元、増本"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-08T18:14:18.704093Z",
+      "items": [
+        {
+          "title": "中道改革連合",
+          "traffic": "200+",
+          "news": [
+            "【独自】中道 党は残し立憲系と公明系議員が離党へ 公明出身議員は公明党に復党し、立憲出身議員は新党を立ち上げへ",
+            "中道 立民と公明出身者に分かれ衆院統一会派結成の方向で調整",
+            "立民系は新党、公明系は復党 中道分裂、統一会派目指す：時事ドットコム"
+          ]
+        },
+        {
+          "title": "apple",
+          "traffic": "500+",
+          "news": [
+            "Apple Falls Before Ternus's First $54 Billion iPhone Test",
+            "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
+            "Apple to Kick Off Ternus Era With Its Biggest-Ever Slate of New Products"
+          ]
+        },
+        {
+          "title": "山 﨑 武司",
+          "traffic": "100+",
+          "news": [
+            "元中日ドラゴンズ･山﨑武司氏の息子（30） 高級腕時計や現金をだまし取った罪の裁判 「ホストクラブへの返済に」 起訴内容認める（CBCテレビ）",
+            "ロレックスなどを所有者から騙し取った罪　元プロ野球選手の息子　初公判で起訴内容認める",
+            "ロレックスなど高級時計をだまし取ったなどとされる事件 元中日・山崎武司さんの息子が初公判で起訴内容を認める 名古屋地裁"
+          ]
+        },
+        {
+          "title": "club brugge vs aston villa",
+          "traffic": "100+",
+          "news": [
+            "Club Brugge vs Aston Villa: UEFA Champions League stats & head-to-head",
+            "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
+            "Champions League scoring started early by Villa's McGinn after record rate of goals last season"
+          ]
+        },
+        {
+          "title": "木原龍一",
+          "traffic": "500+",
+          "news": [
+            "木原龍一と6年間同居…25歳・女性有名人が明かした意外な関係〝再会〟2ショットに「びっくり」「とても良い思い出！」の声",
+            "「りくりゅう、何が正解？」 日曜に書く 論説委員・森田景史",
+            "（フィギュア #34）りくりゅう婚約 プロポーズ写真が語る“メモリアル”、記者が見た距離感"
+          ]
+        },
+        {
+          "title": "周東佑京 ランニングホームラン",
+          "traffic": "10000+",
+          "news": [
+            "ソフトバンク周東佑京がパ史上6人目の満塁ランニングホームラン 1999年の小久保裕紀以来27年ぶり（西スポWEB OTTO!）",
+            "【一問一答】山崎福也 悔やまれる序盤の失点「あそこはちょっと予想外というか…予想していなかったです」",
+            "【日本ハム】新庄監督「明日勝つのみ」連勝８でストップ、８回悪夢の10失点で大敗…"
+          ]
+        },
+        {
+          "title": "高崎俊吾 vivant",
+          "traffic": "1000+",
+          "news": [
+            "第7回 あの配膳係「沈」が登場！！悲鳴を上げる悪役たち…",
+            "「VIVANT悪役会議室」“フードロスニキ”登場 食事を渡さなかった理由聞かれ沈黙「意味深な笑み」「間が気になる」と反響",
+            "【実際の投稿】『VIVANT』”悪役会議室”の4ショット"
+          ]
+        },
+        {
+          "title": "アップル",
+          "traffic": "1000+",
+          "news": [
+            "Apple、折りたたみiPhoneの生産は1日数百台どまり 発売時に品薄の恐れ",
+            "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か（Bloomberg）",
+            "iPhone Ultraおいくらですか？ 最新予想がこちら (ギズモード・ジャパン)"
+          ]
+        },
+        {
+          "title": "champions league",
+          "traffic": "100+",
+          "news": [
+            "Champions League returns: Your views and predictions",
+            "UCL Fantasy 2026/27: Predicted Matchday 1 line-ups for all 36 teams",
+            "UEFA Champions League Matchday 1 schedule"
+          ]
+        },
+        {
+          "title": "今田美桜",
+          "traffic": "500+",
+          "news": [
+            "＜SixTONES松村北斗＞「力強い時間を共有できた」 台湾でファン3000人が熱狂 今田美桜とW主演映画イベントに登場",
+            "「鑑賞後も何日も感動にひたれる作品」 白鳥とコウモリ さとさんの映画レビュー（感想・評価）",
+            "今田美桜：「温かく歓迎していただいて、本当に感謝」 モノトーンコーデで台湾のイベントに"
           ]
         }
       ]
