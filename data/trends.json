@@ -1,95 +1,87 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-09-08T18:14:18.704093Z",
+  "updatedAt": "2026-09-09T00:19:09.447665Z",
   "current": [
     {
-      "title": "中道改革連合",
+      "title": "中間淳太",
+      "traffic": "5000+",
+      "news": [
+        "「重岡が脱退の引き金か...」『WEST.』電撃脱退の裏事情と藤井＆小瀧「盤石のキャリアプラン」（FRIDAY）",
+        "〈1年半で7人中4人が既婚者〉『WEST.』脱退は突発的か、藤井流星と小瀧望が絶望したメンバーの“優先順位”",
+        "WEST.藤井流星と小瀧望、異例の脱退理由と“アイドルの会社員化”が映す時代の変化"
+      ]
+    },
+    {
+      "title": "ブルワーズ 対 カブス",
+      "traffic": "2000+",
+      "news": [
+        "【ドジャース】大谷翔平 MVP争い三重苦…PCA独走の裏に〝大谷マニア〟の造反＆「投票疲れ」（東スポWEB）",
+        "カブスのPCAが本塁打＆２盗塁で「41－35」 ７人目の「40－40」射程圏内",
+        "『PCA』ピート・クローアームストロング、大谷翔平以来の「40－40」まであと5盗塁…2戦連発41号＆2盗塁 敵将も絶賛「今季最高の選手」"
+      ]
+    },
+    {
+      "title": "デイデイ",
+      "traffic": "200+",
+      "news": []
+    },
+    {
+      "title": "yahooニュース",
+      "traffic": "500+",
+      "news": [
+        "血を流した男性死亡 ひき逃げか",
+        "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査",
+        "茨城・つくば市で死亡ひき逃げ事件　40代男性が自宅の前で血を流して倒れる　けがの状況などから乗用車にひかれたか　逃げた乗用車の行方追う　茨城県警"
+      ]
+    },
+    {
+      "title": "比嘉愛未",
+      "traffic": "500+",
+      "news": [
+        "『ファーストクライ』光井（比嘉愛未）、聴力を失い退職へ 「母子救命救急班」解散の危機（オリコン）",
+        "『ファーストクライ』19歳の妊婦役熱演で話題…俳優・横溝菜帆「この役を通して、自分の全く知らない人生を想像して演じることへの重たい責任を感じました」",
+        "比嘉愛未の目に涙…共演者と迎える感動のクランクアップショットに「毎週泣いてます」＜ファーストクライ 母子救命救急班＞"
+      ]
+    },
+    {
+      "title": "あさイチ",
+      "traffic": "500+",
+      "news": [
+        "あさイチ＞9月9日は改善！40代からの「目の不調」 自分でできる簡単ケア ゲストは島崎和歌子ら（毎日キレイ）",
+        "9月9日のNHK朝の情報番組「あさイチ」は「改善！40代からの『目の不調』▽自分でできる簡単ケア」を放送 （C）NHK",
+        "あさイチ：9月8日はフライパンを特集 使い方、選び方の新常識を紹介 ゲストは内田慈ら"
+      ]
+    },
+    {
+      "title": "ニュースサイト",
       "traffic": "200+",
       "news": [
-        "【独自】中道 党は残し立憲系と公明系議員が離党へ 公明出身議員は公明党に復党し、立憲出身議員は新党を立ち上げへ",
-        "中道 立民と公明出身者に分かれ衆院統一会派結成の方向で調整",
-        "立民系は新党、公明系は復党 中道分裂、統一会派目指す：時事ドットコム"
+        "今日の株式見通し＝もみ合い、米国株安が重しに 半導体株買われ底堅さも",
+        "半導体やAI関連株の底堅さを見極め買い戻しの動きへ／オープニングコメント",
+        "日経平均、米半導体株高と円高一服が支え（先読み株式相場）"
       ]
     },
     {
-      "title": "apple",
+      "title": "abema 将棋",
+      "traffic": "100+",
+      "news": []
+    },
+    {
+      "title": "om pen",
+      "traffic": "200+",
+      "news": [
+        "Still uncertainty about what kind of 20MP sensor the OM PEN will have",
+        "OM System PEN Rumors Reveal New Mode Dial and Camera Controls",
+        "OM Pen leaks on Amazon with new design, 20.4 MP sensor, and AI autofocus"
+      ]
+    },
+    {
+      "title": "ポケモンチャンピオンズ",
       "traffic": "500+",
       "news": [
-        "Apple Falls Before Ternus's First $54 Billion iPhone Test",
-        "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
-        "Apple to Kick Off Ternus Era With Its Biggest-Ever Slate of New Products"
-      ]
-    },
-    {
-      "title": "山 﨑 武司",
-      "traffic": "100+",
-      "news": [
-        "元中日ドラゴンズ･山﨑武司氏の息子（30） 高級腕時計や現金をだまし取った罪の裁判 「ホストクラブへの返済に」 起訴内容認める（CBCテレビ）",
-        "ロレックスなどを所有者から騙し取った罪　元プロ野球選手の息子　初公判で起訴内容認める",
-        "ロレックスなど高級時計をだまし取ったなどとされる事件 元中日・山崎武司さんの息子が初公判で起訴内容を認める 名古屋地裁"
-      ]
-    },
-    {
-      "title": "club brugge vs aston villa",
-      "traffic": "100+",
-      "news": [
-        "Club Brugge vs Aston Villa: UEFA Champions League stats & head-to-head",
-        "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
-        "Champions League scoring started early by Villa's McGinn after record rate of goals last season"
-      ]
-    },
-    {
-      "title": "木原龍一",
-      "traffic": "500+",
-      "news": [
-        "木原龍一と6年間同居…25歳・女性有名人が明かした意外な関係〝再会〟2ショットに「びっくり」「とても良い思い出！」の声",
-        "「りくりゅう、何が正解？」 日曜に書く 論説委員・森田景史",
-        "（フィギュア #34）りくりゅう婚約 プロポーズ写真が語る“メモリアル”、記者が見た距離感"
-      ]
-    },
-    {
-      "title": "周東佑京 ランニングホームラン",
-      "traffic": "10000+",
-      "news": [
-        "ソフトバンク周東佑京がパ史上6人目の満塁ランニングホームラン 1999年の小久保裕紀以来27年ぶり（西スポWEB OTTO!）",
-        "【一問一答】山崎福也 悔やまれる序盤の失点「あそこはちょっと予想外というか…予想していなかったです」",
-        "【日本ハム】新庄監督「明日勝つのみ」連勝８でストップ、８回悪夢の10失点で大敗…"
-      ]
-    },
-    {
-      "title": "高崎俊吾 vivant",
-      "traffic": "1000+",
-      "news": [
-        "第7回 あの配膳係「沈」が登場！！悲鳴を上げる悪役たち…",
-        "「VIVANT悪役会議室」“フードロスニキ”登場 食事を渡さなかった理由聞かれ沈黙「意味深な笑み」「間が気になる」と反響",
-        "【実際の投稿】『VIVANT』”悪役会議室”の4ショット"
-      ]
-    },
-    {
-      "title": "アップル",
-      "traffic": "1000+",
-      "news": [
-        "Apple、折りたたみiPhoneの生産は1日数百台どまり 発売時に品薄の恐れ",
-        "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か（Bloomberg）",
-        "iPhone Ultraおいくらですか？ 最新予想がこちら (ギズモード・ジャパン)"
-      ]
-    },
-    {
-      "title": "champions league",
-      "traffic": "100+",
-      "news": [
-        "Champions League returns: Your views and predictions",
-        "UCL Fantasy 2026/27: Predicted Matchday 1 line-ups for all 36 teams",
-        "UEFA Champions League Matchday 1 schedule"
-      ]
-    },
-    {
-      "title": "今田美桜",
-      "traffic": "500+",
-      "news": [
-        "＜SixTONES松村北斗＞「力強い時間を共有できた」 台湾でファン3000人が熱狂 今田美桜とW主演映画イベントに登場",
-        "「鑑賞後も何日も感動にひたれる作品」 白鳥とコウモリ さとさんの映画レビュー（感想・評価）",
-        "今田美桜：「温かく歓迎していただいて、本当に感謝」 モノトーンコーデで台湾のイベントに"
+        "Pokémon Champions’ director vows to keep turn-based battles as single-player is ruled out",
+        "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+        "Play! Pokémon Rules and Resources Updated for Q3 2026"
       ]
     }
   ],
@@ -579,6 +571,93 @@
             "＜SixTONES松村北斗＞「力強い時間を共有できた」 台湾でファン3000人が熱狂 今田美桜とW主演映画イベントに登場",
             "「鑑賞後も何日も感動にひたれる作品」 白鳥とコウモリ さとさんの映画レビュー（感想・評価）",
             "今田美桜：「温かく歓迎していただいて、本当に感謝」 モノトーンコーデで台湾のイベントに"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-09T00:19:09.447665Z",
+      "items": [
+        {
+          "title": "中間淳太",
+          "traffic": "5000+",
+          "news": [
+            "「重岡が脱退の引き金か...」『WEST.』電撃脱退の裏事情と藤井＆小瀧「盤石のキャリアプラン」（FRIDAY）",
+            "〈1年半で7人中4人が既婚者〉『WEST.』脱退は突発的か、藤井流星と小瀧望が絶望したメンバーの“優先順位”",
+            "WEST.藤井流星と小瀧望、異例の脱退理由と“アイドルの会社員化”が映す時代の変化"
+          ]
+        },
+        {
+          "title": "ブルワーズ 対 カブス",
+          "traffic": "2000+",
+          "news": [
+            "【ドジャース】大谷翔平 MVP争い三重苦…PCA独走の裏に〝大谷マニア〟の造反＆「投票疲れ」（東スポWEB）",
+            "カブスのPCAが本塁打＆２盗塁で「41－35」 ７人目の「40－40」射程圏内",
+            "『PCA』ピート・クローアームストロング、大谷翔平以来の「40－40」まであと5盗塁…2戦連発41号＆2盗塁 敵将も絶賛「今季最高の選手」"
+          ]
+        },
+        {
+          "title": "デイデイ",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "yahooニュース",
+          "traffic": "500+",
+          "news": [
+            "血を流した男性死亡 ひき逃げか",
+            "茨城・つくば市の路上で血を流した男性見つかる 死亡ひき逃げ事件で捜査",
+            "茨城・つくば市で死亡ひき逃げ事件　40代男性が自宅の前で血を流して倒れる　けがの状況などから乗用車にひかれたか　逃げた乗用車の行方追う　茨城県警"
+          ]
+        },
+        {
+          "title": "比嘉愛未",
+          "traffic": "500+",
+          "news": [
+            "『ファーストクライ』光井（比嘉愛未）、聴力を失い退職へ 「母子救命救急班」解散の危機（オリコン）",
+            "『ファーストクライ』19歳の妊婦役熱演で話題…俳優・横溝菜帆「この役を通して、自分の全く知らない人生を想像して演じることへの重たい責任を感じました」",
+            "比嘉愛未の目に涙…共演者と迎える感動のクランクアップショットに「毎週泣いてます」＜ファーストクライ 母子救命救急班＞"
+          ]
+        },
+        {
+          "title": "あさイチ",
+          "traffic": "500+",
+          "news": [
+            "あさイチ＞9月9日は改善！40代からの「目の不調」 自分でできる簡単ケア ゲストは島崎和歌子ら（毎日キレイ）",
+            "9月9日のNHK朝の情報番組「あさイチ」は「改善！40代からの『目の不調』▽自分でできる簡単ケア」を放送 （C）NHK",
+            "あさイチ：9月8日はフライパンを特集 使い方、選び方の新常識を紹介 ゲストは内田慈ら"
+          ]
+        },
+        {
+          "title": "ニュースサイト",
+          "traffic": "200+",
+          "news": [
+            "今日の株式見通し＝もみ合い、米国株安が重しに 半導体株買われ底堅さも",
+            "半導体やAI関連株の底堅さを見極め買い戻しの動きへ／オープニングコメント",
+            "日経平均、米半導体株高と円高一服が支え（先読み株式相場）"
+          ]
+        },
+        {
+          "title": "abema 将棋",
+          "traffic": "100+",
+          "news": []
+        },
+        {
+          "title": "om pen",
+          "traffic": "200+",
+          "news": [
+            "Still uncertainty about what kind of 20MP sensor the OM PEN will have",
+            "OM System PEN Rumors Reveal New Mode Dial and Camera Controls",
+            "OM Pen leaks on Amazon with new design, 20.4 MP sensor, and AI autofocus"
+          ]
+        },
+        {
+          "title": "ポケモンチャンピオンズ",
+          "traffic": "500+",
+          "news": [
+            "Pokémon Champions’ director vows to keep turn-based battles as single-player is ruled out",
+            "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+            "Play! Pokémon Rules and Resources Updated for Q3 2026"
           ]
         }
       ]
