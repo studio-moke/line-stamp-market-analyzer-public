@@ -1,91 +1,88 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-09-13T12:14:04.192876Z",
+  "updatedAt": "2026-09-13T18:12:52.153883Z",
   "current": [
     {
-      "title": "阪神タイガース 速報",
+      "title": "ミゲル・ロハス",
+      "traffic": "100+",
+      "news": [
+        "ドジャースがスタメン発表 今季限りで現役引退のロハスがマイアミで“ラストゲーム” ５年連続地区優勝へマジック「４」",
+        "【ドジャース】ロハスの〝引退試合〟は11月の母国ウインターリーグ「最後の試合になるだろう」",
+        "【ドジャース】ロハスの〝引退試合〟は11月の母国ウインターリーグ「最後の試合になるだろう」（東スポWEB）"
+      ]
+    },
+    {
+      "title": "mu",
+      "traffic": "100+",
+      "news": [
+        "株価600％上昇のマイクロンに「今から投資」するのは遅いのか？",
+        "MUのブレイクアウトにおける重要な課題は、板の厚み（注文の深さ）です",
+        "【米国株】美光科技、9月30日決算が鍵となるカタリストに 低PERが急騰の伏線か"
+      ]
+    },
+    {
+      "title": "nfl",
+      "traffic": "100+",
+      "news": [
+        "NFL Week 1's best arrivals, led by Joe Burrow and Lamar Jackson",
+        "Myles Garrett undergoing knee surgery; will miss minimum four games"
+      ]
+    },
+    {
+      "title": "levante ud vs fc barcelona standings",
       "traffic": "200+",
       "news": [
-        "内藤鵬が満塁弾を含む2安打6打点の活躍 オリックスが4連勝【9/13 二軍試合結果】",
-        "【ファーム】9月13日 オリックス・バファローズ 対 阪神タイガース ハイライト",
-        "9/11（金）ファーム・リーグ公式戦 対 阪神タイガース戦（杉本商事BS）当日券販売について"
+        "Levante 2-4 Barcelona: Champions continue perfect start to La Liga season as Lamine Yamal scores twiece",
+        "A refereeing expert admits: Barcelona's penalty was \"incorrect\"",
+        "Yamal double helps Barca edge Levante thriller"
       ]
     },
     {
-      "title": "mrtニュース",
-      "traffic": "200+",
-      "news": [
-        "9/13(日)宮崎県内の交通取り締まり情報",
-        "9/12(土)宮崎県内の交通取り締まり情報",
-        "9/12（土）宮崎県内の交通取り締まり情報（MRT宮崎放送）"
-      ]
-    },
-    {
-      "title": "バクー",
-      "traffic": "200+",
-      "news": [
-        "Why the Azerbaijan Grand Prix is special",
-        "\"Formula 1\" 10 years - Contribution to tourism and business",
-        "PASHA Real Estate Partners with Formula 1 Qatar Airways Azerbaijan Grand Prix 2026 [VIDEO]"
-      ]
-    },
-    {
-      "title": "ぐるぐるナインティナイン",
-      "traffic": "200+",
-      "news": [
-        "「安売りさせられて…」和久田麻由子、『ぐるナイ』大奮闘の裏にMC番組「安住紳一郎にボロ負け」のリアル（ピンズバNEWS）",
-        "川島明・元NHK和久田アナと東京湾クルーズゴチ&納豆でフルコース料理",
-        "ぐるナイ 川島明・元NHK和久田アナとクルーズゴチ＆料理ハンデマッチ2時間SP！｜ぐるぐるナインティナイン"
-      ]
-    },
-    {
-      "title": "阪神タイガース 今日の試合 甲子園",
-      "traffic": "500+",
-      "news": [
-        "対戦防御率0.75と好相性の武内夏暉【9/13 パ見どころ】",
-        "【阪神】才木浩人が９回無失点　今季４本目の安打も　高橋との“ヒロト対決”にファンは歓声",
-        "阪神才木浩人－中日高橋宏斗、ソフトバンク上茶谷大河－ロッテ・ルケーシーほか／13日予告先発"
-      ]
-    },
-    {
-      "title": "松本 対 相模原",
-      "traffic": "200+",
-      "news": [
-        "9/13（日）相模原戦 スタグル情報",
-        "｢初対戦の選手は驚くかも｣山雅の高野遼が語った古巣の特長 相模原戦はクロスの攻防が焦点",
-        "松本vs相模原 スタメン発表"
-      ]
-    },
-    {
-      "title": "clima para amanhã",
-      "traffic": "200+",
-      "news": [
-        "Seis estados com risco de chuva forte e temporais; São Paulo preocupa",
-        "São Paulo segue em alerta de perigo para tempestades neste domingo; veja previsão",
-        "Inmet alerta para chuvas fortes em Arapongas, Apucarana e região neste domingo (13) - TNOnline"
-      ]
-    },
-    {
-      "title": "西本圭吾",
+      "title": "ノエルギャラガー",
       "traffic": "200+",
       "news": []
     },
     {
-      "title": "新井丈",
+      "title": "ロブロックス",
       "traffic": "200+",
       "news": [
-        "【DEEP】青井人vs.三井俊希のフェザー級タイトルマッチ、仕切り直しの白川ダーク陸斗vs.瀧澤謙太など4試合が11：22ニューピアホール大会で決定。秋元強真もケージに登場（ゴング格闘技）",
-        "DEEP 試合結果・速報｜大成vsシビサイ頌真、北方大地vs新井丈ほか ディープ 133 全試合速報しています",
-        "【DEEP133】計量終了 欠場が相次いだ大会を翌日に控え、佐伯代表に訊く「それでも、これだけ残った」"
+        "Roblox、2026年の注目作品ズラリ「Roblox Innovation Awards」受賞作品が決定 (MoguraVR)",
+        "米ロブロックス、利用者の自作ゲームをスマホアプリ化 収益機会広げる",
+        "Roblox，ゲームの単体アプリ配信構想を発表。年内にはChromeで直接プレイ可能に。プラットフォームの未来を示したRDC 2026基調講演"
       ]
     },
     {
-      "title": "cuaca besok",
-      "traffic": "1000+",
+      "title": "井桁弘恵",
+      "traffic": "100+",
       "news": [
-        "Prakiraan Cuaca Sulawesi Besok Senin 14 September 2026, Makassar dan Manado Cerah, Palu Berawan",
-        "BMKG Sulsel Keluarkan Peringatan Dini Hujan, Angin Kencang dan Udara Panas",
-        "BMKG Keluarkan Peringatan Dini Udara Panas, Gowa Siaga 10 September"
+        "井桁弘恵に聞く、勉強好きだった子ども時代「小学校時代の体験や習い事が、さまざまな場面で役立ちました」",
+        "井桁弘恵が「成績上位は全然ムリかも」と思った高校時代、難関大学進学のために続けた努力とは"
+      ]
+    },
+    {
+      "title": "櫻坂46",
+      "traffic": "200+",
+      "news": [
+        "元櫻坂46渡辺梨加、第1子妊娠を発表 ふっくらお腹披露「幸せな毎日を過ごしています」",
+        "元櫻坂４６渡辺梨加、妊娠発表「お腹の中で一生懸命に大きくなってくれていることがとても愛おしく、幸せな毎日」",
+        "元櫻坂46・渡辺梨加（写真：宮坂浩見） （C）ORICON NewS inc."
+      ]
+    },
+    {
+      "title": "mリーグ",
+      "traffic": "100+",
+      "news": [
+        "「Mリーグには、そんなに入りたくなかった」かつては極貧生活だった本田朋広が、“令和麻雀界で最も推される男”になるまで",
+        "「いつ辞めてもいい」と思っていた麻雀が辞められなくなった TEAM雷電・本田朋広、仲間と過ごしたからこそより愛せたもの/麻雀・Mリーグ（ABEMA TIMES）"
+      ]
+    },
+    {
+      "title": "タイガース 対 ロッキーズ",
+      "traffic": "500+",
+      "news": [
+        "9月12日｜MLB by SPOTV NOW デイリーハイライト",
+        "鈴木誠也　スタメン外れるも代打で四球を選び、逆転劇呼び込む　カブスは連勝",
+        "2026年9月13日（日） MLB Dバックス vs レンジャーズ 試合結果"
       ]
     }
   ],
@@ -2285,6 +2282,94 @@
             "Prakiraan Cuaca Sulawesi Besok Senin 14 September 2026, Makassar dan Manado Cerah, Palu Berawan",
             "BMKG Sulsel Keluarkan Peringatan Dini Hujan, Angin Kencang dan Udara Panas",
             "BMKG Keluarkan Peringatan Dini Udara Panas, Gowa Siaga 10 September"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-13T18:12:52.153883Z",
+      "items": [
+        {
+          "title": "ミゲル・ロハス",
+          "traffic": "100+",
+          "news": [
+            "ドジャースがスタメン発表 今季限りで現役引退のロハスがマイアミで“ラストゲーム” ５年連続地区優勝へマジック「４」",
+            "【ドジャース】ロハスの〝引退試合〟は11月の母国ウインターリーグ「最後の試合になるだろう」",
+            "【ドジャース】ロハスの〝引退試合〟は11月の母国ウインターリーグ「最後の試合になるだろう」（東スポWEB）"
+          ]
+        },
+        {
+          "title": "mu",
+          "traffic": "100+",
+          "news": [
+            "株価600％上昇のマイクロンに「今から投資」するのは遅いのか？",
+            "MUのブレイクアウトにおける重要な課題は、板の厚み（注文の深さ）です",
+            "【米国株】美光科技、9月30日決算が鍵となるカタリストに 低PERが急騰の伏線か"
+          ]
+        },
+        {
+          "title": "nfl",
+          "traffic": "100+",
+          "news": [
+            "NFL Week 1's best arrivals, led by Joe Burrow and Lamar Jackson",
+            "Myles Garrett undergoing knee surgery; will miss minimum four games"
+          ]
+        },
+        {
+          "title": "levante ud vs fc barcelona standings",
+          "traffic": "200+",
+          "news": [
+            "Levante 2-4 Barcelona: Champions continue perfect start to La Liga season as Lamine Yamal scores twiece",
+            "A refereeing expert admits: Barcelona's penalty was \"incorrect\"",
+            "Yamal double helps Barca edge Levante thriller"
+          ]
+        },
+        {
+          "title": "ノエルギャラガー",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "ロブロックス",
+          "traffic": "200+",
+          "news": [
+            "Roblox、2026年の注目作品ズラリ「Roblox Innovation Awards」受賞作品が決定 (MoguraVR)",
+            "米ロブロックス、利用者の自作ゲームをスマホアプリ化 収益機会広げる",
+            "Roblox，ゲームの単体アプリ配信構想を発表。年内にはChromeで直接プレイ可能に。プラットフォームの未来を示したRDC 2026基調講演"
+          ]
+        },
+        {
+          "title": "井桁弘恵",
+          "traffic": "100+",
+          "news": [
+            "井桁弘恵に聞く、勉強好きだった子ども時代「小学校時代の体験や習い事が、さまざまな場面で役立ちました」",
+            "井桁弘恵が「成績上位は全然ムリかも」と思った高校時代、難関大学進学のために続けた努力とは"
+          ]
+        },
+        {
+          "title": "櫻坂46",
+          "traffic": "200+",
+          "news": [
+            "元櫻坂46渡辺梨加、第1子妊娠を発表 ふっくらお腹披露「幸せな毎日を過ごしています」",
+            "元櫻坂４６渡辺梨加、妊娠発表「お腹の中で一生懸命に大きくなってくれていることがとても愛おしく、幸せな毎日」",
+            "元櫻坂46・渡辺梨加（写真：宮坂浩見） （C）ORICON NewS inc."
+          ]
+        },
+        {
+          "title": "mリーグ",
+          "traffic": "100+",
+          "news": [
+            "「Mリーグには、そんなに入りたくなかった」かつては極貧生活だった本田朋広が、“令和麻雀界で最も推される男”になるまで",
+            "「いつ辞めてもいい」と思っていた麻雀が辞められなくなった TEAM雷電・本田朋広、仲間と過ごしたからこそより愛せたもの/麻雀・Mリーグ（ABEMA TIMES）"
+          ]
+        },
+        {
+          "title": "タイガース 対 ロッキーズ",
+          "traffic": "500+",
+          "news": [
+            "9月12日｜MLB by SPOTV NOW デイリーハイライト",
+            "鈴木誠也　スタメン外れるも代打で四球を選び、逆転劇呼び込む　カブスは連勝",
+            "2026年9月13日（日） MLB Dバックス vs レンジャーズ 試合結果"
           ]
         }
       ]
