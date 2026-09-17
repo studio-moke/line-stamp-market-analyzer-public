@@ -1,87 +1,79 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-09-17T00:15:08.241595Z",
+  "updatedAt": "2026-09-17T06:15:27.750797Z",
   "current": [
     {
-      "title": "上田 晋也",
+      "title": "息子",
+      "traffic": "500+",
+      "news": []
+    },
+    {
+      "title": "旭化成",
+      "traffic": "200+",
+      "news": []
+    },
+    {
+      "title": "副大臣",
+      "traffic": "200+",
+      "news": []
+    },
+    {
+      "title": "玉川徹",
+      "traffic": "5000+",
+      "news": [
+        "中道を離党した泉健太氏、民主改革の会への入党「検討材料がそろっていない」",
+        "玉川徹氏が中道をバッサリ「野党はやっぱり甘いよね」政党交付金受領を批判「なぜ分かんない？」（日刊スポーツ）",
+        "＜産経抄＞信頼踏み倒す「中道」離党の議員たち、それでも頼る政党交付金"
+      ]
+    },
+    {
+      "title": "ハイ ロックス",
+      "traffic": "2000+",
+      "news": [
+        "競技中に失禁したハイロックス優勝者、原因として指摘された中国の「豆汁」（中央日報日本語版）",
+        "便漏れしながらスポーツ競技を続行した豪選手に批判の声。主催者が謝罪、ルール改正へ",
+        "【写真】豆汁を味わうジョアンナ・ヴィエトリク選手"
+      ]
+    },
+    {
+      "title": "菊池雄星",
+      "traffic": "200+",
+      "news": []
+    },
+    {
+      "title": "大学入試センター",
       "traffic": "1000+",
-      "news": []
-    },
-    {
-      "title": "inter miami vs cruz azul",
-      "traffic": "200+",
       "news": [
-        "MATCH PREVIEW: Inter Miami CF Hosts Cruz Azul the 2026 Michelob ULTRA Campeones Cup",
-        "Cruz Azul star Alan Mozo sends defiant warning to Lionel Messi and Inter Miami ahead of Campeones Cup showdown",
-        "Cruz Azul Hits a Snag: Huiqui Forced to Rethink Game Plan Before Facing Messi’s Inter Miami"
+        "【共通テスト2027】受付初日2,819人出願…前年度比126人減（リセマム）",
+        "共通テスト、ウェブ出願開始 来月２日まで―大学入試センター",
+        "大学入学共通テストの会場に向かう受験生＝1月、東京都文京区の東大 - 共通テストの出願始まる オンラインで10月2日まで - 写真・画像(1/1)"
       ]
     },
     {
-      "title": "中学受験",
-      "traffic": "200+",
+      "title": "板橋駅",
+      "traffic": "2000+",
       "news": [
-        "中学受験直前！焦る親の構えと「見守る勇気・事前準備の鉄則」（nobico（のびこ））",
-        "「学校を辞める」とまで言った娘が求めるのは人並みの青春。かつてのイメージと見学会では見抜けなかった中高一貫校の変容",
-        "過熱する中学受験、親はどう向き合う？ 個別指導塾の教室長が説く「焦らず、立ち止まる」ことの大切さ"
+        "【速報】東京・北区「女が刃物を振り回し2人の胸を刺した」胸や太もも刺され男性2人けが 女を傷害の疑いで現行犯逮捕 JR板橋駅近く（TBS NEWS DIG Powered by JNN）",
+        "東京 北区 マンション敷地内で刃物持った女が暴れる 2人がけが",
+        "酒店で女が刃物を振り回し男性2人ケガ 女を現行犯逮捕 東京・北区（2026年9月16日掲載）｜日テレNEWS NNN"
       ]
     },
     {
-      "title": "江藤愛",
-      "traffic": "200+",
-      "news": []
-    },
-    {
-      "title": "応援上映",
+      "title": "片山さつき",
       "traffic": "500+",
       "news": [
-        "熱狂、熱唱、そして涙…ファンたちが感極まった『オアシス：ドント・ルック・バック・イン・アンガー』応援上映の模様をレポート！",
-        "映画『オアシス：ドント・ルック・バック・イン・アンガー』オアシス・ドキュメンタリー映画史上No.1の大ヒットスタート！「Wonderwall」クリップ映像解禁！｜映画｜ディズニー公式",
-        "【写真まとめ】「オアシス」解散と再結成の真相 関係者が語る [写真特集1/8]"
+        "【速報中】財務相、消費税減税法案「とにかく謙虚に丁寧に」 内閣改造",
+        "内閣改造 片山財務相が留任へ",
+        "スーパー店長「値札の入れ替えしなければ」「さらに２年後には元に戻さなければ…」消費減税に頭抱える小売業、「物価高進めば減税実感できるかも分からない」（読売新聞オンライン）"
       ]
     },
     {
-      "title": "classi",
-      "traffic": "500+",
+      "title": "覚醒剤",
+      "traffic": "1000+",
       "news": [
-        "Scuola e classi col 30% di stranieri, è scontro alla Camera. Sasso: «Serve la remigrazione». Il ministro Valditara: «Avviata la stretta»",
-        "In Italia, dodici studenti su cento non hanno cittadinanza Italiana. L'appello di Mariagrazia Santagati della Fondazione Ismu: \"La scuola pubblica si apra per far crescere le nuove generazioni di italiani in senso lato\"",
-        "Scuola, Valditara \"Favorire un'equilibrata distribuzione di alunni non italiani\""
-      ]
-    },
-    {
-      "title": "投げ銭",
-      "traffic": "200+",
-      "news": [
-        "「2億円投げ銭リスナー」の嫌がらせ、警察沙汰の過酷練習、家賃6万アパートから最高月収1600万円…“リアル峰不二子”ライバー・茜羽（30）が明かすアスリートの“リアルなセカンドキャリア”（文春オンライン）",
-        "「稼ぎたいと思ったからです」176cmの長身女性アスリート（30）が現役引退後、板橋区の“家賃6万アパート”から月1600万稼ぐようになった“意外なきっかけ”《15キロ減量で整形疑惑も》",
-        "「『美』は売るが『性』は売らない」グラビア拒否の真意、妹への葛藤、世界王者の母がいびられたスポーツ界の闇…元バドミントン日本代表・茜羽（30）が“発信力を持とうとする理由”"
-      ]
-    },
-    {
-      "title": "能登半島",
-      "traffic": "200+",
-      "news": [
-        "能登半島地震で隆起の河川 豪雨などの影響で川底が最大2m侵食 今後10年以上地形変化続く可能性 インフラ災害招くおそれも 東北大など（TBS NEWS DIG Powered by JNN）",
-        "能登半島地震の隆起でできた「滝」の遡上を観測 ―河川構造物に10年以上影響する可能性も明らかに―",
-        "能登半島地震の隆起が生んだ「滝」は河口から1km近く内陸へ遡上 河川インフラへの影響は10年以上続く恐れ【東北大学などの研究】 (2026年9月16日掲載)"
-      ]
-    },
-    {
-      "title": "アンドリュー・アボット",
-      "traffic": "200+",
-      "news": [
-        "Dodgers Lineup vs. Reds: Max Muncy, Josue De Paula Out",
-        "Cincinnati Reds vs. Los Angeles Dodgers - Rhett Lowder vs. Yoshinobu Yamamoto",
-        "Dodgers at Reds game chat"
-      ]
-    },
-    {
-      "title": "f-47",
-      "traffic": "100+",
-      "news": [
-        "USAF: Boeing F-47 Design Progressing, First Flight On Track",
-        "A surprise engine team up, plus a budget warning from space",
-        "SecAF announces on-orbit space control weapons"
+        "【捜査中の警察官をナイフで襲撃】未明の路上で突然の凶行…覚醒剤関連の捜査で声をかけられた45歳男が突然ナイフで切りつける…搬送された40代捜査員は命に別条なし〈北海道札幌市北区〉",
+        "「警察だ」と声をかけると、突然ナイフで警察官を襲い背中を刺したか 覚醒剤取締法違反の容疑で追っていた45歳の男を逮捕「身に覚えはない」と容疑否認",
+        "警察官が容疑者に切りつけられる 銃刀法違反疑いで逮捕 札幌"
       ]
     }
   ],
@@ -3520,6 +3512,85 @@
             "USAF: Boeing F-47 Design Progressing, First Flight On Track",
             "A surprise engine team up, plus a budget warning from space",
             "SecAF announces on-orbit space control weapons"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-09-17T06:15:27.750797Z",
+      "items": [
+        {
+          "title": "息子",
+          "traffic": "500+",
+          "news": []
+        },
+        {
+          "title": "旭化成",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "副大臣",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "玉川徹",
+          "traffic": "5000+",
+          "news": [
+            "中道を離党した泉健太氏、民主改革の会への入党「検討材料がそろっていない」",
+            "玉川徹氏が中道をバッサリ「野党はやっぱり甘いよね」政党交付金受領を批判「なぜ分かんない？」（日刊スポーツ）",
+            "＜産経抄＞信頼踏み倒す「中道」離党の議員たち、それでも頼る政党交付金"
+          ]
+        },
+        {
+          "title": "ハイ ロックス",
+          "traffic": "2000+",
+          "news": [
+            "競技中に失禁したハイロックス優勝者、原因として指摘された中国の「豆汁」（中央日報日本語版）",
+            "便漏れしながらスポーツ競技を続行した豪選手に批判の声。主催者が謝罪、ルール改正へ",
+            "【写真】豆汁を味わうジョアンナ・ヴィエトリク選手"
+          ]
+        },
+        {
+          "title": "菊池雄星",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "大学入試センター",
+          "traffic": "1000+",
+          "news": [
+            "【共通テスト2027】受付初日2,819人出願…前年度比126人減（リセマム）",
+            "共通テスト、ウェブ出願開始 来月２日まで―大学入試センター",
+            "大学入学共通テストの会場に向かう受験生＝1月、東京都文京区の東大 - 共通テストの出願始まる オンラインで10月2日まで - 写真・画像(1/1)"
+          ]
+        },
+        {
+          "title": "板橋駅",
+          "traffic": "2000+",
+          "news": [
+            "【速報】東京・北区「女が刃物を振り回し2人の胸を刺した」胸や太もも刺され男性2人けが 女を傷害の疑いで現行犯逮捕 JR板橋駅近く（TBS NEWS DIG Powered by JNN）",
+            "東京 北区 マンション敷地内で刃物持った女が暴れる 2人がけが",
+            "酒店で女が刃物を振り回し男性2人ケガ 女を現行犯逮捕 東京・北区（2026年9月16日掲載）｜日テレNEWS NNN"
+          ]
+        },
+        {
+          "title": "片山さつき",
+          "traffic": "500+",
+          "news": [
+            "【速報中】財務相、消費税減税法案「とにかく謙虚に丁寧に」 内閣改造",
+            "内閣改造 片山財務相が留任へ",
+            "スーパー店長「値札の入れ替えしなければ」「さらに２年後には元に戻さなければ…」消費減税に頭抱える小売業、「物価高進めば減税実感できるかも分からない」（読売新聞オンライン）"
+          ]
+        },
+        {
+          "title": "覚醒剤",
+          "traffic": "1000+",
+          "news": [
+            "【捜査中の警察官をナイフで襲撃】未明の路上で突然の凶行…覚醒剤関連の捜査で声をかけられた45歳男が突然ナイフで切りつける…搬送された40代捜査員は命に別条なし〈北海道札幌市北区〉",
+            "「警察だ」と声をかけると、突然ナイフで警察官を襲い背中を刺したか 覚醒剤取締法違反の容疑で追っていた45歳の男を逮捕「身に覚えはない」と容疑否認",
+            "警察官が容疑者に切りつけられる 銃刀法違反疑いで逮捕 札幌"
           ]
         }
       ]
