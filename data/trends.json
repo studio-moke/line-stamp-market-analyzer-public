@@ -1,92 +1,84 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-10-13T00:13:42.202385Z",
+  "updatedAt": "2026-10-13T13:42:10.432533Z",
   "current": [
     {
-      "title": "河合塾",
+      "title": "nhk 会社員",
       "traffic": "200+",
-      "news": [
-        "岩手 一関に来春開校予定 新通信制高校の運営グループが会見",
-        "来春一関市に開校　河合塾グループが運営するドルトンＸ学園高校をマスコミ公開",
-        "28歳が開校した青楓館高等学院。3年半で累計生徒400名を突破"
-      ]
-    },
-    {
-      "title": "rj ミッテ",
-      "traffic": "200+",
-      "news": [
-        "RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34",
-        "‘Breaking Bad’ star RJ Mitte reflected on living life to the fullest in final interview: ‘Finite amount of time’",
-        "RJ Mitte, actor best known for playing Walter White Jr. on ‘Breaking Bad,’ dies at 34"
-      ]
-    },
-    {
-      "title": "小川智大",
-      "traffic": "1000+",
       "news": []
     },
     {
-      "title": "ゴルファー",
+      "title": "a2o",
       "traffic": "200+",
       "news": [
-        "「最高、めっちゃかわいい」22歳人気女子ゴルファー、最終日の猛チャージに賛辞続々「ホステス大会でナイスプレーやったね！」 ウェア姿にも注目集まる（CoCoKARAnext）",
-        "都玲華「服かわいい」お気に入りオレンジスカートを投稿「アーの顔」とショット後の表情も",
-        "【女子ゴルフ】都玲華「この先やべえな〜と。久しぶりに楽しい人生」　自己ベスト「６５」で１２位　シード獲得へランク５５位浮上"
+        "Song Review: A2O Lite – Neon",
+        "SM founder Lee Soo-man returns home with tech-driven double debut",
+        "K-pop pioneer Lee Soo-man bets on 4D future"
       ]
     },
     {
-      "title": "スポナビ",
-      "traffic": "200+",
+      "title": "x秒後の新世界",
+      "traffic": "500+",
       "news": [
-        "【アンケート調査】値下がりした今こそ欲しい！ゴルファーがいま気になるマークダウンアイアンを聞いてみた",
-        "畑岡奈紗も投入している「ZXi RKT」ドライバーは、低スピン性能と操作性が進化した！",
-        "[写真] 国産軟鉄鍛造の争いに割って入る“黒アイアン” 「飛距離性能の高さ」で乗り換え者続出中 #週間ギアランキング"
+        "S P天下一品こってりスープを完全再現!?春雨スピード料理対決!",
+        "堂本剛＆間宮祥太朗、カップ焼きそばの味に驚がく 『X秒後の新世界』2時間SP今夜放送（オリコン）",
+        "門外不出！超人気ラーメン店「天下一品」のスープの味を完全再現できるか!?「X秒後の新世界 秋の2時間SP」（日テレTOPICS）"
       ]
     },
     {
-      "title": "シーテック 2026",
+      "title": "倉木華死去",
       "traffic": "100+",
+      "news": []
+    },
+    {
+      "title": "ドムドムバーガー",
+      "traffic": "500+",
       "news": [
-        "Highlanders、「CEATEC 2026」に出展 国産ヒューマノイド「N」の量産試作機を展示",
-        "Highlanders、GENIACに採択。自動車製造の位置合わせ工程向けに国産フィジカルAI基盤モデルを開発",
-        "【オンラインセミナー】国産ヒューマノイド『N』：量産と知能化…ハイランダーズが描く戦略 10月22日 1枚目の写真・画像"
+        "吉祥寺に新オープン「ドムドムハンバーガー」メニュー・価格・店内と人気No.1甘辛チキンバーガーセット920円レポ",
+        "10月6日はドムドムハンバーガーの日！あなただけのドムドム愛をカタチにするオリジナルアパレル&オンデマンドサービスが「Talking about」で10月より順次スタート！",
+        "「ドムドムハンバーガー」の「どむぞうくん」がTシャツに！オリジナルアパレル発売決定ー12月には“ドムドム愛”を表現できるオンデマンドプリントサービスも展開 1枚目の写真・画像"
       ]
     },
     {
-      "title": "nikkei",
+      "title": "向井康二 ドラマ",
       "traffic": "200+",
       "news": [
-        "オムロン、米ＰＣメーカーのインターロジックを買収 1046億円(ロイター)",
-        "オムロン、フィジカルAI基盤構築へ米PCメーカー買収 1000億円規模",
-        "オムロン、米ＰＣメーカーのインターロジックを買収 1046億円"
+        "Snow Man向井康二「仕事に関しては運じゃない気がする」「誰かしらが見てくれている」【今日ドラマスタート】",
+        "Snow Man向井康二「あるMVはファン失神事件」 新アルバム「AMENITY」語る【今日ドラマスタート】（AERA DIGITAL）",
+        "Snow Man“激メロリーダー”岩本照＆向井康二に甘々々な“だてふかさく” 重ねた時間が絆となって降り積もる"
       ]
     },
     {
-      "title": "イエメン",
+      "title": "bangladesh vs afghanistan",
       "traffic": "200+",
       "news": [
-        "フーシがサウジ攻撃拡大、揺らぐ安全神話 「投資立国」構想に試練",
-        "Breakingviews - COMMENTARY: コラム：サウジの脱石油戦略に暗雲、空港攻撃で逆風増す投資誘致計画",
-        "フーシ派「民間人の犠牲は『サウジアラビア側に責任』」　空港への攻撃を正当化"
+        "BAN vs AFG live score, AFG vs BAN 2026/27: AFG 288/7 (120.3 ov, Yamin Ahmadzai 5*, Qais Ahmad 7*, Taijul Islam 1/77, Only Test, day 4, Zayed Cricket Stadium, Abu Dhabi, October 09 - 13, 2026",
+        "The India players pose with their gold medals",
+        "Afghanistan Star Rahmat Shah Joins Virat Kohli In Elite Test Captains List"
       ]
     },
     {
-      "title": "cxmt",
-      "traffic": "100+",
-      "news": [
-        "Micron, SK Hynix stocks fall as Chinese memory maker announces progress in new design",
-        "China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix",
-        "[News] CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 RDIMM Launch"
-      ]
-    },
-    {
-      "title": "レイズ 対 ガーディアンズ",
+      "title": "apple",
       "traffic": "2000+",
       "news": [
-        "【10月13日】タンパベイ・レイズvsクリーブランド・ガーディアンズのテレビ放送/ネット配信予定・視聴方法｜MLB2026 AL優勝決定シリーズ 1回戦",
-        "【ドジャース】「689億円軍団」の衝撃 ３連覇への費用…ポストシーズン他の３強の合計超え＝米報道（東スポWEB）",
-        "年俸総額26位・レイズと最下位・ガーディアンズが激突！「スモールボール」対「ガーズ・ボール」"
+        "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
+        "Apple Unveils $299 HomeView Hub as Part of New Smart Home Push",
+        "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow"
       ]
+    },
+    {
+      "title": "山本祐大",
+      "traffic": "200+",
+      "news": [
+        "山本祐大が「相関図」に初登場！ 9選手との関係性…「部屋に入り浸っていた」という先輩の正体は？",
+        "1位は山本祐大トレードの舞台裏「最も知りたかった内容」の声も 鷹フルアワード結果発表！",
+        "【8月・9月】鷹フルアワード"
+      ]
+    },
+    {
+      "title": "川田将 雅",
+      "traffic": "500+",
+      "news": []
     }
   ],
   "snapshots": [
@@ -11744,6 +11736,89 @@
             "【ドジャース】「689億円軍団」の衝撃 ３連覇への費用…ポストシーズン他の３強の合計超え＝米報道（東スポWEB）",
             "年俸総額26位・レイズと最下位・ガーディアンズが激突！「スモールボール」対「ガーズ・ボール」"
           ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-13T13:42:10.432533Z",
+      "items": [
+        {
+          "title": "nhk 会社員",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "a2o",
+          "traffic": "200+",
+          "news": [
+            "Song Review: A2O Lite – Neon",
+            "SM founder Lee Soo-man returns home with tech-driven double debut",
+            "K-pop pioneer Lee Soo-man bets on 4D future"
+          ]
+        },
+        {
+          "title": "x秒後の新世界",
+          "traffic": "500+",
+          "news": [
+            "S P天下一品こってりスープを完全再現!?春雨スピード料理対決!",
+            "堂本剛＆間宮祥太朗、カップ焼きそばの味に驚がく 『X秒後の新世界』2時間SP今夜放送（オリコン）",
+            "門外不出！超人気ラーメン店「天下一品」のスープの味を完全再現できるか!?「X秒後の新世界 秋の2時間SP」（日テレTOPICS）"
+          ]
+        },
+        {
+          "title": "倉木華死去",
+          "traffic": "100+",
+          "news": []
+        },
+        {
+          "title": "ドムドムバーガー",
+          "traffic": "500+",
+          "news": [
+            "吉祥寺に新オープン「ドムドムハンバーガー」メニュー・価格・店内と人気No.1甘辛チキンバーガーセット920円レポ",
+            "10月6日はドムドムハンバーガーの日！あなただけのドムドム愛をカタチにするオリジナルアパレル&オンデマンドサービスが「Talking about」で10月より順次スタート！",
+            "「ドムドムハンバーガー」の「どむぞうくん」がTシャツに！オリジナルアパレル発売決定ー12月には“ドムドム愛”を表現できるオンデマンドプリントサービスも展開 1枚目の写真・画像"
+          ]
+        },
+        {
+          "title": "向井康二 ドラマ",
+          "traffic": "200+",
+          "news": [
+            "Snow Man向井康二「仕事に関しては運じゃない気がする」「誰かしらが見てくれている」【今日ドラマスタート】",
+            "Snow Man向井康二「あるMVはファン失神事件」 新アルバム「AMENITY」語る【今日ドラマスタート】（AERA DIGITAL）",
+            "Snow Man“激メロリーダー”岩本照＆向井康二に甘々々な“だてふかさく” 重ねた時間が絆となって降り積もる"
+          ]
+        },
+        {
+          "title": "bangladesh vs afghanistan",
+          "traffic": "200+",
+          "news": [
+            "BAN vs AFG live score, AFG vs BAN 2026/27: AFG 288/7 (120.3 ov, Yamin Ahmadzai 5*, Qais Ahmad 7*, Taijul Islam 1/77, Only Test, day 4, Zayed Cricket Stadium, Abu Dhabi, October 09 - 13, 2026",
+            "The India players pose with their gold medals",
+            "Afghanistan Star Rahmat Shah Joins Virat Kohli In Elite Test Captains List"
+          ]
+        },
+        {
+          "title": "apple",
+          "traffic": "2000+",
+          "news": [
+            "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
+            "Apple Unveils $299 HomeView Hub as Part of New Smart Home Push",
+            "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow"
+          ]
+        },
+        {
+          "title": "山本祐大",
+          "traffic": "200+",
+          "news": [
+            "山本祐大が「相関図」に初登場！ 9選手との関係性…「部屋に入り浸っていた」という先輩の正体は？",
+            "1位は山本祐大トレードの舞台裏「最も知りたかった内容」の声も 鷹フルアワード結果発表！",
+            "【8月・9月】鷹フルアワード"
+          ]
+        },
+        {
+          "title": "川田将 雅",
+          "traffic": "500+",
+          "news": []
         }
       ]
     }
