@@ -1,86 +1,91 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-10-22T16:44:49.097381Z",
+  "updatedAt": "2026-10-22T21:15:48.599060Z",
   "current": [
     {
-      "title": "ユヴェントス 対 レンヌ",
+      "title": "ウイルス",
       "traffic": "200+",
       "news": [
-        "ユヴェントス、スパレッティが3バックと4バックの両方を試す。不在の選手は6人",
-        "ユベントス対レンヌ戦プレビュー：トップ争いの注目ポイント",
-        "ヨーロッパリーグ ユベントス対レンヌ戦のプレビュー"
+        "「シャモンダウイルス」、フランスで初のヒト感染 患者は死亡（時事通信）",
+        "シャモンダウイルス、世界初のヒト感染を確認 仏、感染者は今月上旬に死亡",
+        "家畜に広がる「シャモンダウイルス」 仏で初のヒト感染、患者は死亡"
       ]
     },
     {
-      "title": "会社員 ドラマ",
-      "traffic": "200+",
+      "title": "bournemouth vs milan",
+      "traffic": "100+",
       "news": [
-        "会社員＞吉田羊×南沙良のドラマ10 第3回あらすじ＆場面カット スマホから、ある決定的なデータ（MANTANWEB）",
-        "【写真・画像 2/5枚】会社員：吉田羊×南沙良のドラマ10 第3回あらすじ＆場面カット スマホから、ある決定的なデータ",
-        "“バリキャリ女性管理職”を演じた吉田羊が語る「結婚を選ばなかった人生」について思うこと、そして「役柄と重なる部分」"
+        "Europa & Conference League: Bournemouth beat 10-man Milan and Palace draw - reaction",
+        "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
+        "Bournemouth owner Bill Foley vows to bring Champions League football to the Vitality Stadium"
       ]
     },
     {
-      "title": "england vs sri lanka",
+      "title": "東京天気",
       "traffic": "200+",
       "news": [
-        "Harry Brook hits 202 for England against Sri Lanka in ODI tri-series",
-        "Sri Lanka stun England by chasing down 430 to win as ODI records tumble – live",
-        "Sri Lanka vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates"
+        "【都城市】10/23 最高23℃、雨、昼間から夕方は強く降る時間もある予想【朝版】",
+        "【東京都】10/23の天気予報",
+        "【都城市】10/22 最低14℃、最高26℃、昼間はやや暑さを感じる場面がありそうな晴れの予想【朝版】"
       ]
     },
     {
-      "title": "ヤブロネツ 対 ブライトン",
-      "traffic": "1000+",
+      "title": "東京湾大華火祭 2026",
+      "traffic": "200+",
       "news": [
-        "FKヤブロネツ対ブライトン戦の予想：アウェイチームは連勝記録を継続できるだろうか？",
-        "試合プレビュー：ヤブロネツ対ブライトン、10月22日23:45：「シーガルズ」が高みへ。"
+        "【関東】2026年10月24日・25日週末開催の無料イベント17選 フェスタ＆秋祭りも満喫！｜2ページ目",
+        "【今週末ついに放送！】東京湾大華火祭2026の舞台裏",
+        "今週末の「東京湾大華火祭」は晴海線・台場線・一般道で交通規制。周辺の歩道も通行止め。有楽町線は打ち上げ前後に臨時ダイヤ"
       ]
     },
     {
-      "title": "中村 敬斗",
-      "traffic": "200+",
+      "title": "押収",
+      "traffic": "100+",
+      "news": [
+        "中国、57億ドル規模の詐欺事件に関連する61,800 BTCの押収を目指す",
+        "中国、57億ドル詐欺で61896BTC没収を求める",
+        "中国、英押収の8000億円ビットコイン没収へ動く(NADA NEWS)"
+      ]
+    },
+    {
+      "title": "ソックス指数",
+      "traffic": "100+",
       "news": []
     },
     {
-      "title": "cod mw4",
-      "traffic": "100+",
-      "news": [
-        "『Call of Duty: Modern Warfare 4』明日10月23日発売！ 現代戦をテーマにしたFPSシリーズの新章が開幕",
-        "MSI、ヒートシンクがイエローの「CoD:Modern Warfare 4」コラボ版GeForce RTX 5080",
-        "今週発売の新作ゲーム『Call of Duty: Modern Warfare 4』『ファイナルファンタジー レゾナンス』『ステューピッド・ネバー・ダイズ』他"
-      ]
-    },
-    {
-      "title": "coach",
-      "traffic": "100+",
-      "news": [
-        "Sources: Nick Sirianni, Mike Vrabel, Aaron Glenn fined for conduct toward refs",
-        "$250K NFL fine for Sirianni, Vrabel and Glenn temporarily on hold: Report",
-        "Report: Eagles HC Nick Sirianni kinda-sorta-not really fined $250,000 for bad behavior"
-      ]
-    },
-    {
-      "title": "ディーンアンドデルーカの限定チャリティートートバッグの発売日やカラーについて教えて",
-      "traffic": "1000+",
-      "news": []
-    },
-    {
-      "title": "中国 地震",
+      "title": "ミュージックステーション",
       "traffic": "200+",
       "news": [
-        "西藏巴青县发生7.0级地震，暂未收到人员伤亡和财产损失报告",
-        "西藏巴青7.0级地震！今年以来我国最大地震",
-        "浙江援藏干部：那曲震感明显 暂未收到人员伤亡信息"
+        "ミュージックステーション40周年SP、10月23日の出演者・歌唱曲一覧 GLAYが2曲披露、Aぇ! groupらも登場",
+        "『Mステ』40周年スペシャル今夜放送 KEY TO LITがデビュー曲初披露「テレビに張り付いてお待ちください」【出演アーティスト＆楽曲】（オリコン）",
+        "GLAY｜ミュージックステーション"
       ]
     },
     {
-      "title": "soxl",
+      "title": "アジア選手権",
+      "traffic": "200+",
+      "news": [
+        "【卓球】日本女子、中国撃破…カットマン橋本帆乃香が２勝 アジア選手権Ｖに大貢献（日刊スポーツ）",
+        "2026アジア卓球選手権ウズベキスタン大会 開幕！",
+        "【卓球】日本女子が２年ぶり金メダル王手　早田ひな、張本美和、大藤沙月で台湾に１ゲームも落とさず快勝　決勝は中国または韓国戦"
+      ]
+    },
+    {
+      "title": "東京 気温",
+      "traffic": "1000+",
+      "news": [
+        "「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 中心気圧は900hPa“スーパー台風”に…台風影響 157地点で“季節外れの真夏日”に【news23】（TBS NEWS DIG Powered by JNN）",
+        "大阪、東京で史上最も遅い真夏日 明日は気温が大幅に低下",
+        "上野公園で季節外れのサクラが開花「こんなに咲くのは初めて」 21日の東京は観測史上最遅の「真夏日」"
+      ]
+    },
+    {
+      "title": "那覇空港",
       "traffic": "500+",
       "news": [
-        "SOXX, SOXL Retreat To Red Premarket, But Retail Is 'Extremely Bullish' Ahead Of Tech Earnings",
-        "Should You Buy the iShares Semiconductor ETF After Its 25% Plunge? The Answer Might Surprise You.",
-        "Can SOXX (NASDAQ:SOXX) Withstand an 11.4% Weekly Slide Across Chip Stocks?"
+        "那覇空港に大麻輸入の疑い イタリア国籍の男逮捕 豊見城署（琉球新報）",
+        "コカイン密輸入　那覇空港で財布の中から　米国籍の男を容疑で逮捕　豊見城署",
+        "那覇空港に大麻輸入の疑い イタリア国籍の男逮捕 豊見城署"
       ]
     }
   ],
@@ -15009,6 +15014,97 @@
             "SOXX, SOXL Retreat To Red Premarket, But Retail Is 'Extremely Bullish' Ahead Of Tech Earnings",
             "Should You Buy the iShares Semiconductor ETF After Its 25% Plunge? The Answer Might Surprise You.",
             "Can SOXX (NASDAQ:SOXX) Withstand an 11.4% Weekly Slide Across Chip Stocks?"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-22T21:15:48.599060Z",
+      "items": [
+        {
+          "title": "ウイルス",
+          "traffic": "200+",
+          "news": [
+            "「シャモンダウイルス」、フランスで初のヒト感染 患者は死亡（時事通信）",
+            "シャモンダウイルス、世界初のヒト感染を確認 仏、感染者は今月上旬に死亡",
+            "家畜に広がる「シャモンダウイルス」 仏で初のヒト感染、患者は死亡"
+          ]
+        },
+        {
+          "title": "bournemouth vs milan",
+          "traffic": "100+",
+          "news": [
+            "Europa & Conference League: Bournemouth beat 10-man Milan and Palace draw - reaction",
+            "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
+            "Bournemouth owner Bill Foley vows to bring Champions League football to the Vitality Stadium"
+          ]
+        },
+        {
+          "title": "東京天気",
+          "traffic": "200+",
+          "news": [
+            "【都城市】10/23 最高23℃、雨、昼間から夕方は強く降る時間もある予想【朝版】",
+            "【東京都】10/23の天気予報",
+            "【都城市】10/22 最低14℃、最高26℃、昼間はやや暑さを感じる場面がありそうな晴れの予想【朝版】"
+          ]
+        },
+        {
+          "title": "東京湾大華火祭 2026",
+          "traffic": "200+",
+          "news": [
+            "【関東】2026年10月24日・25日週末開催の無料イベント17選 フェスタ＆秋祭りも満喫！｜2ページ目",
+            "【今週末ついに放送！】東京湾大華火祭2026の舞台裏",
+            "今週末の「東京湾大華火祭」は晴海線・台場線・一般道で交通規制。周辺の歩道も通行止め。有楽町線は打ち上げ前後に臨時ダイヤ"
+          ]
+        },
+        {
+          "title": "押収",
+          "traffic": "100+",
+          "news": [
+            "中国、57億ドル規模の詐欺事件に関連する61,800 BTCの押収を目指す",
+            "中国、57億ドル詐欺で61896BTC没収を求める",
+            "中国、英押収の8000億円ビットコイン没収へ動く(NADA NEWS)"
+          ]
+        },
+        {
+          "title": "ソックス指数",
+          "traffic": "100+",
+          "news": []
+        },
+        {
+          "title": "ミュージックステーション",
+          "traffic": "200+",
+          "news": [
+            "ミュージックステーション40周年SP、10月23日の出演者・歌唱曲一覧 GLAYが2曲披露、Aぇ! groupらも登場",
+            "『Mステ』40周年スペシャル今夜放送 KEY TO LITがデビュー曲初披露「テレビに張り付いてお待ちください」【出演アーティスト＆楽曲】（オリコン）",
+            "GLAY｜ミュージックステーション"
+          ]
+        },
+        {
+          "title": "アジア選手権",
+          "traffic": "200+",
+          "news": [
+            "【卓球】日本女子、中国撃破…カットマン橋本帆乃香が２勝 アジア選手権Ｖに大貢献（日刊スポーツ）",
+            "2026アジア卓球選手権ウズベキスタン大会 開幕！",
+            "【卓球】日本女子が２年ぶり金メダル王手　早田ひな、張本美和、大藤沙月で台湾に１ゲームも落とさず快勝　決勝は中国または韓国戦"
+          ]
+        },
+        {
+          "title": "東京 気温",
+          "traffic": "1000+",
+          "news": [
+            "「猛烈な勢力」台風30号が“急カーブ”で列島直撃のおそれ 中心気圧は900hPa“スーパー台風”に…台風影響 157地点で“季節外れの真夏日”に【news23】（TBS NEWS DIG Powered by JNN）",
+            "大阪、東京で史上最も遅い真夏日 明日は気温が大幅に低下",
+            "上野公園で季節外れのサクラが開花「こんなに咲くのは初めて」 21日の東京は観測史上最遅の「真夏日」"
+          ]
+        },
+        {
+          "title": "那覇空港",
+          "traffic": "500+",
+          "news": [
+            "那覇空港に大麻輸入の疑い イタリア国籍の男逮捕 豊見城署（琉球新報）",
+            "コカイン密輸入　那覇空港で財布の中から　米国籍の男を容疑で逮捕　豊見城署",
+            "那覇空港に大麻輸入の疑い イタリア国籍の男逮捕 豊見城署"
           ]
         }
       ]
