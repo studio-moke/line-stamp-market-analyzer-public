@@ -1,84 +1,96 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-10-26T12:23:20.974512Z",
+  "updatedAt": "2026-10-26T22:21:40.696072Z",
   "current": [
     {
-      "title": "小池徹平",
+      "title": "資産",
       "traffic": "500+",
       "news": [
-        "小池徹平、高校時代の隣の席に人気女優 “まさか”の今は「山ちゃんの隣にいますから」（ENCOUNT）",
-        "小池徹平パパ、子育て論＆絶品餃子",
-        "小池徹平の子育て　5歳＆7歳息子は「タブレットに依存させたくない」　車移動も外食でも「全く見せない」"
+        "「FIREは出来たので、次は」元なこなこ・こーくん、29歳誕生日に目標語る 「素直に尊敬する」「強すぎ」 (2026年10月19日掲載)",
+        "「生活水準を上げすぎたらダメ」資産2億円FIREしたYouTuberこーくんが語る金銭感覚「貯め込むことだけが正解じゃない」",
+        "28歳で「資産約2億円FIRE」したYouTuberこーくんが明かす最初に始めた「投資」。きっかけは1本の動画だった"
       ]
     },
     {
-      "title": "生瀬勝久",
-      "traffic": "200+",
-      "news": []
-    },
-    {
-      "title": "インフレーション",
-      "traffic": "200+",
+      "title": "井桁弘恵",
+      "traffic": "5000+",
       "news": [
-        "Candy prices surge beyond inflation, but Americans still plan to spend billions on Halloween staples",
-        "U.S. Halloween candy sales are falling as chocolate prices and costs bite",
-        "Halloween candy sales sluggish as shoppers face higher prices, affordability concerns"
+        "侍J・井口資仁監督　松井巨人のヘッドコーチは「Going！にいる」「史上最強のタッグに」と太鼓判",
+        "中畑清氏、巨人松井秀喜新監督に注文「現場復帰するなら俺も手伝わせろよ」",
+        "高橋氏ヘッド格有力候補"
       ]
     },
     {
-      "title": "白石聖",
+      "title": "女子バロンドール",
       "traffic": "200+",
       "news": [
-        "白石聖＞「加速度的に美しさが増してる」話題のヒロインがオトナな黒で魅せる “東カレ”ドレス姿に反響（MANTANWEB）",
-        "白石聖：「加速度的に美しさが増してる」話題のヒロインがオトナな黒で魅せる “東カレ”ドレス姿に反響",
-        "石原さとみ＆きょん、肩に腕を乗せて寄り添う“幼なじみ”2ショットに「このコンビのコントすっごく見たい」の声＜ポリティカルパン＞"
+        "なでしこジャパンMF長谷川唯、女子バロンドールで日本人歴代最高11位 松窪真心22位、谷川萌々子23位",
+        "超綺麗！ 長谷川唯、谷川萌々子らが華やかな装いでバロンドール授賞式に登場。日本人3選手が世界最高峰の舞台へ",
+        "「ふざけんな」「ありえない、冗談だろ」まさか！なでしこ長谷川唯、バロンドール“トップ10圏外”に世界のファンから批判殺到！「史上最大の強盗だ」「誰が投票してんだよ」"
       ]
     },
     {
-      "title": "ユミルリンク",
-      "traffic": "10000+",
-      "news": [
-        "ユミルリンク延べ5162万件余りの個人情報漏えいが判明 メアドや氏名などが含まれ、クレカ会社などを装った迷惑メールも確認",
-        "ユミルリンクへの不正アクセス、情報漏洩5162万件に拡大",
-        "メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認"
-      ]
-    },
-    {
-      "title": "ノロッコ号",
-      "traffic": "1000+",
-      "news": [
-        "“チェーンソー撮り鉄”仲間逮捕 離れて暮らす“男2人”なぜ 北海道",
-        "「くしろ湿原ノロッコ号」のラストランの日に木を切断した疑い 会社員の男を送検｜Infoseekニュース",
-        "撮り鉄仲間逮捕 「邪魔だった」ノロッコ号撮影で木切断か 線路沿いにV字痕（テレビ朝日系（ANN））"
-      ]
-    },
-    {
-      "title": "琉球ゴールデンキングス",
-      "traffic": "200+",
-      "news": [
-        "琉球U15が『Jr.ウインターカップ』予選大会で7連覇達成…山根HC「昨年の悔しさを晴らす」（バスケットボールキング）",
-        "キングスU15・7連覇達成！「第5回沖縄アリーナカップ」U15男子優勝およびJr.ウインターカップ出場権獲得のご報告（PR TIMES）",
-        "琉球U15が『Jr．ウィンターカップ』予選大会で7連覇達成…山根HC「昨年の悔しさを晴らす」"
-      ]
-    },
-    {
-      "title": "野々村友紀子",
+      "title": "鈴木彩艶",
       "traffic": "500+",
-      "news": []
-    },
-    {
-      "title": "thời tiết ngày mai",
-      "traffic": "1000+",
       "news": [
-        "Miền Trung lại sắp hứng mưa lớn, nhiều nhất có thể vượt 250mm",
-        "Nhiều nơi sắp có mưa to trong 3 ngày liên tiếp",
-        "Dự báo thời tiết đêm nay, ngày mai - 27/10/2026"
+        "日本サッカー界に飛び込んだBIGニュース「間違いなく…」「見事だ」 英国で11傑入り、森保ジャパン24歳また快挙",
+        "GK鈴木彩艶、プレミア公式週間ベスト11に連続選出！「大舞台でビッグセーブ連発」「完璧なゴールキーピング」と現地大絶賛",
+        "「反射神経おかしい」「キャッチかよ」首位撃破の原動力に！鈴木彩艶のビッグセーブに反響続々！「なんで弾かずに済むんだ」「やべぇな」"
       ]
     },
     {
-      "title": "persija jakarta vs persik",
+      "title": "ケニア",
+      "traffic": "100+",
+      "news": [
+        "Kenya releases first Ebola contacts from quarantine, milestone in containment efforts",
+        "Kenya announces 2nd Ebola death, a close relative of the first patient",
+        "Is Ebola under control in Kenya after nine cases confirmed?"
+      ]
+    },
+    {
+      "title": "落合恵子",
+      "traffic": "100+",
+      "news": [
+        "81歳・落合恵子さんが語る、がんとの向き合い方「元気になりたい」と「もういいや」の間で",
+        "第 2505 回 がんと生ききる",
+        "「どう治すか選ぶのは私」落合恵子さん、広島市中区でがんの闘病生活語る"
+      ]
+    },
+    {
+      "title": "ランサムウェア",
+      "traffic": "100+",
+      "news": [
+        "「自社は無関係」が致命傷に？日本被害の7割を生む“越境ランサム集団”と4つの防御策",
+        "ランサムウェア被害が最多。システム発注側に求められる個人情報を「持たない」判断 (久保田一 経営者)",
+        "Halcyon ROC STAR レポート：2026年10月版 解説ウェビナー"
+      ]
+    },
+    {
+      "title": "psg",
       "traffic": "200+",
-      "news": []
+      "news": [
+        "DIRECT. Ballon d'Or 2026 : suivez les coulisses et la cérémonie de la 70e édition en direct",
+        "Le Ballon d'Or 2026 EN DIRECT : La cérémonie démarre, Yamal reçoit un premier prix",
+        "DIRECT. Ballon d'or 2026: une razzia espagnole en attendant la bataille entre Mbappé, Yamal et Kane pour le Ballon d'or"
+      ]
+    },
+    {
+      "title": "秋田市天気",
+      "traffic": "100+",
+      "news": [
+        "【大崎市】10/27 最高17℃、最低11℃、夜はやや風がある予想【朝版】",
+        "【奥州市】10/27 最高16℃、ひんやりするタイミングも、くもり空が続く予想【朝版】",
+        "【秋田県】10/26の天気予報"
+      ]
+    },
+    {
+      "title": "イスラエル 選挙 無料",
+      "traffic": "1000+",
+      "news": [
+        "きょうイスラエル総選挙 ネタニヤフ首相に審判 政権交代の可能性も",
+        "ネタニヤフ氏の続投可否が争点 イスラエル総選挙、27日投票へ",
+        "ネタニヤフ氏支持基盤でも変化が…ガザ戦闘「本質示した」イスラエル選挙支持者離れも"
+      ]
     }
   ],
   "snapshots": [
@@ -16339,6 +16351,101 @@
           "title": "persija jakarta vs persik",
           "traffic": "200+",
           "news": []
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-10-26T22:21:40.696072Z",
+      "items": [
+        {
+          "title": "資産",
+          "traffic": "500+",
+          "news": [
+            "「FIREは出来たので、次は」元なこなこ・こーくん、29歳誕生日に目標語る 「素直に尊敬する」「強すぎ」 (2026年10月19日掲載)",
+            "「生活水準を上げすぎたらダメ」資産2億円FIREしたYouTuberこーくんが語る金銭感覚「貯め込むことだけが正解じゃない」",
+            "28歳で「資産約2億円FIRE」したYouTuberこーくんが明かす最初に始めた「投資」。きっかけは1本の動画だった"
+          ]
+        },
+        {
+          "title": "井桁弘恵",
+          "traffic": "5000+",
+          "news": [
+            "侍J・井口資仁監督　松井巨人のヘッドコーチは「Going！にいる」「史上最強のタッグに」と太鼓判",
+            "中畑清氏、巨人松井秀喜新監督に注文「現場復帰するなら俺も手伝わせろよ」",
+            "高橋氏ヘッド格有力候補"
+          ]
+        },
+        {
+          "title": "女子バロンドール",
+          "traffic": "200+",
+          "news": [
+            "なでしこジャパンMF長谷川唯、女子バロンドールで日本人歴代最高11位 松窪真心22位、谷川萌々子23位",
+            "超綺麗！ 長谷川唯、谷川萌々子らが華やかな装いでバロンドール授賞式に登場。日本人3選手が世界最高峰の舞台へ",
+            "「ふざけんな」「ありえない、冗談だろ」まさか！なでしこ長谷川唯、バロンドール“トップ10圏外”に世界のファンから批判殺到！「史上最大の強盗だ」「誰が投票してんだよ」"
+          ]
+        },
+        {
+          "title": "鈴木彩艶",
+          "traffic": "500+",
+          "news": [
+            "日本サッカー界に飛び込んだBIGニュース「間違いなく…」「見事だ」 英国で11傑入り、森保ジャパン24歳また快挙",
+            "GK鈴木彩艶、プレミア公式週間ベスト11に連続選出！「大舞台でビッグセーブ連発」「完璧なゴールキーピング」と現地大絶賛",
+            "「反射神経おかしい」「キャッチかよ」首位撃破の原動力に！鈴木彩艶のビッグセーブに反響続々！「なんで弾かずに済むんだ」「やべぇな」"
+          ]
+        },
+        {
+          "title": "ケニア",
+          "traffic": "100+",
+          "news": [
+            "Kenya releases first Ebola contacts from quarantine, milestone in containment efforts",
+            "Kenya announces 2nd Ebola death, a close relative of the first patient",
+            "Is Ebola under control in Kenya after nine cases confirmed?"
+          ]
+        },
+        {
+          "title": "落合恵子",
+          "traffic": "100+",
+          "news": [
+            "81歳・落合恵子さんが語る、がんとの向き合い方「元気になりたい」と「もういいや」の間で",
+            "第 2505 回 がんと生ききる",
+            "「どう治すか選ぶのは私」落合恵子さん、広島市中区でがんの闘病生活語る"
+          ]
+        },
+        {
+          "title": "ランサムウェア",
+          "traffic": "100+",
+          "news": [
+            "「自社は無関係」が致命傷に？日本被害の7割を生む“越境ランサム集団”と4つの防御策",
+            "ランサムウェア被害が最多。システム発注側に求められる個人情報を「持たない」判断 (久保田一 経営者)",
+            "Halcyon ROC STAR レポート：2026年10月版 解説ウェビナー"
+          ]
+        },
+        {
+          "title": "psg",
+          "traffic": "200+",
+          "news": [
+            "DIRECT. Ballon d'Or 2026 : suivez les coulisses et la cérémonie de la 70e édition en direct",
+            "Le Ballon d'Or 2026 EN DIRECT : La cérémonie démarre, Yamal reçoit un premier prix",
+            "DIRECT. Ballon d'or 2026: une razzia espagnole en attendant la bataille entre Mbappé, Yamal et Kane pour le Ballon d'or"
+          ]
+        },
+        {
+          "title": "秋田市天気",
+          "traffic": "100+",
+          "news": [
+            "【大崎市】10/27 最高17℃、最低11℃、夜はやや風がある予想【朝版】",
+            "【奥州市】10/27 最高16℃、ひんやりするタイミングも、くもり空が続く予想【朝版】",
+            "【秋田県】10/26の天気予報"
+          ]
+        },
+        {
+          "title": "イスラエル 選挙 無料",
+          "traffic": "1000+",
+          "news": [
+            "きょうイスラエル総選挙 ネタニヤフ首相に審判 政権交代の可能性も",
+            "ネタニヤフ氏の続投可否が争点 イスラエル総選挙、27日投票へ",
+            "ネタニヤフ氏支持基盤でも変化が…ガザ戦闘「本質示した」イスラエル選挙支持者離れも"
+          ]
         }
       ]
     }
