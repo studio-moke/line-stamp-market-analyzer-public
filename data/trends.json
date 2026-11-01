@@ -1,84 +1,94 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-11-01T12:47:08.739853Z",
+  "updatedAt": "2026-11-01T21:45:39.264595Z",
   "current": [
     {
-      "title": "桐谷健太",
-      "traffic": "500+",
-      "news": [
-        "桐谷健太、「聖地X」で5年ぶりの舞台に挑む 「きっといろいろな刺激を受け、新たな感覚に出会える」【インタビュー】（エンタメOVO）",
-        "桐谷健太さん 「恐怖心があった」舞台に再び出演を決めた理由",
-        "「不思議な世界を紐解きながら楽しんで」和希そらインタビュー！『聖地X』PARCO PRODUCE 2026"
-      ]
-    },
-    {
-      "title": "ウォーレン・バフェット",
-      "traffic": "200+",
-      "news": [
-        "大富豪ウォーレン・バフェットが「最高の投資」と断言したもの。それは株でも不動産でもなかった（ライフハッカー・ジャパン）",
-        "ウォール街の現金が枯渇するとき：バフェットが築いた帝国",
-        "ウォーレン・バフェットは、誰もが反対している時に株を買うことで、年間8億4800万ドルもの利益を上げている。"
-      ]
-    },
-    {
-      "title": "山下 美夢有",
-      "traffic": "500+",
-      "news": [
-        "山下美夢有が最新ポイント順位２位に浮上、古江彩佳は66位に後退、渋野日向子は97位のまま（日刊スポーツ）",
-        "山下美夢有が今季３勝目 米女子ゴルフ",
-        "「結果がすべてですけど…」 4日間続いた好感触 渋野日向子はランキング浮上ならずTOTOへ"
-      ]
-    },
-    {
-      "title": "福留孝介",
-      "traffic": "200+",
-      "news": []
-    },
-    {
-      "title": "役所広司",
+      "title": "weather",
       "traffic": "2000+",
       "news": [
-        "『VIVANT』クライマックスの鍵を握る“意味深ワード”　公式SNS、放送直前に投稿",
-        "VIVANT＞第23話の先行カットが解禁 涙目？の乃木 どうして（MANTANWEB）",
-        "「奇跡の子」の正体が明らかに！死んだはずの人物の姿も…日曜劇場『VIVANT』第22話を「アフターVIVANT」で振り返る"
+        "N.J. weather: Frost advisory in effect for parts of state as dry stretch continues",
+        "Dangerous Frost Advisory Issued for 8 Counties in Pennsylvania and New Jersey as Temperatures Drop Sharply",
+        "A Frost Advisory Covers Gardens in Camden, Gloucester and Lower Bucks Counties Saturday Night, With Lows Dipping as Low as 34"
       ]
     },
     {
-      "title": "ビバン 最終回",
-      "traffic": "200+",
-      "news": []
-    },
-    {
-      "title": "虎に翼",
-      "traffic": "200+",
+      "title": "サンドウィッチマン",
+      "traffic": "10000+",
       "news": [
-        "連続テレビ小説「虎に翼」Prime Video見放題配信11月27日から",
-        "【アマプラ11月配信作品】映画『新劇場版 銀魂 吉原大炎上』が独占配信。『シュタゲ』『Xファイル』『マッド・マックス』も見放題",
-        "AmazonのPrime Video（プライム・ビデオ）2026年11月に楽しめる新着配信コンテンツ"
+        "サンド富澤たけし、復帰した伊達みきおの後遺症に言及「漫才をやるにはまだ少しかかるかも」",
+        "サンド伊達復帰にファン安堵も、バナナマン日村“6カ月休養”に集まる心配…コンビの「名物CM」では“代役起用”で際立つ不在",
+        "「サンドウィッチマン」の伊達みきおさんが活動再開 脳梗塞で８月から休養"
       ]
     },
     {
-      "title": "ice",
+      "title": "暗号資産とは",
+      "traffic": "100+",
+      "news": [
+        "暗号資産９９００億円相当流出、北朝鮮ハッカー集団の犯行と断定…ＦＢＩ発表「資金洗浄の動き」（読売新聞オンライン）",
+        "暗号資産の盗難 「北朝鮮が関与」 FBI バイナンス事件で",
+        "暗号資産大手バイナンス“1兆円窃盗” FBIが北朝鮮ハッカーの関与確認"
+      ]
+    },
+    {
+      "title": "ユンホ",
+      "traffic": "100+",
+      "news": [
+        "東方神起ユンホ（U-KNOW）初のコンサートが横浜アリーナにて開幕！日本ならではの特別なパフォーマンスを披露",
+        "［韓流］東方神起ユンホが日本で新曲リリース 31日から公演も",
+        "東方神起ユンホ、ソロアリーナツアーに先駆けて配信シングル「君がいる」リリース（動画あり）"
+      ]
+    },
+    {
+      "title": "cuaca hari ini",
+      "traffic": "100+",
+      "news": [
+        "Today BMKG Forecasts Heavy Rain in Several Regions of Indonesia, 9 Provinces in Alert Status"
+      ]
+    },
+    {
+      "title": "細野豪志",
+      "traffic": "500+",
+      "news": [
+        "災害対応の司令塔「防災庁」きょう発足、４部門３５２人・地方拠点設置…「事前防災」から復旧・復興まで一元的に",
+        "相次ぐ災害 被災者ニーズ踏まえた支援は 防災庁が直面する課題",
+        "防災庁、2日発足　内閣直属、初代防災相は細野復興相が兼務へ"
+      ]
+    },
+    {
+      "title": "江本 孟紀",
       "traffic": "2000+",
       "news": [
-        "ICE agent appears to point gun at neighbor during tense North Hollywood arrest caught on video",
-        "Video shows immigration agent detaining man in North Hollywood, pointing gun at bystander",
-        "Video showing federal agent pointing handgun in face of bystander sparks outrage"
+        "中日、工藤監督就任で強くなる？江本氏「中日とソフトバンクでは…」（ニッポン放送）",
+        "中日・大野雄大「3年連続2ケタ勝利は捨てて、オフは走ります」／新監督面談",
+        "【阪神】岩崎優が危機感感じた「工藤頼み」の極端リレー「その中心に自分がいる必要がある」"
       ]
     },
     {
-      "title": "二階堂ふみ",
-      "traffic": "1000+",
+      "title": "thời tiết",
+      "traffic": "500+",
       "news": [
-        "二階堂ふみさん、沖縄戦を生き延びた祖母を胸に 背中に感じた「命」",
-        "子どもたちの純粋さに僕自身の芝居が助けられる瞬間がたくさんありました【『わたしの知らない子どもたち』出演 坂東龍汰 インタビュー】（ダ・ヴィンチWeb）",
-        "「少女の生き様と物語の力に圧倒される」わたしの知らない子どもたち 牛津厚信さんの映画レビュー（感想・評価）"
+        "Dự báo xu thế thời tiết mùa đông và thời gian xuất hiện rét đậm, rét hại",
+        "Gần 100 trạm khí tượng ghi nhận nhiệt độ cao kỷ lục, không khí lạnh tháng 11 ra sao?",
+        "[Video] Tháng 11, mưa to tập trung tại Trung Bộ và Nam Bộ"
       ]
     },
     {
-      "title": "山田裕貴",
-      "traffic": "1000+",
-      "news": []
+      "title": "高橋光成",
+      "traffic": "100+",
+      "news": [
+        "西武・高橋光成が海外FAを決断",
+        "【西武】外崎修汰、海外FA権行使について「未定です」今季は35試合出場で打率１割６分７厘",
+        "西武・外崎 海外ＦＡ権行使は「未定」広池球団本部長と話し合いへ"
+      ]
+    },
+    {
+      "title": "広島天気",
+      "traffic": "500+",
+      "news": [
+        "【東広島市】11/2 最高20℃、朝は雨、昼間は天気回復の予想【朝版】",
+        "【広島県】11/2の天気予報（FNNプライムオンライン（フジテレビ系））",
+        "1日の広島県 天気の崩れはない見込み（31日午後5時25分放送）"
+      ]
     }
   ],
   "snapshots": [
@@ -18152,6 +18162,99 @@
           "title": "山田裕貴",
           "traffic": "1000+",
           "news": []
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-11-01T21:45:39.264595Z",
+      "items": [
+        {
+          "title": "weather",
+          "traffic": "2000+",
+          "news": [
+            "N.J. weather: Frost advisory in effect for parts of state as dry stretch continues",
+            "Dangerous Frost Advisory Issued for 8 Counties in Pennsylvania and New Jersey as Temperatures Drop Sharply",
+            "A Frost Advisory Covers Gardens in Camden, Gloucester and Lower Bucks Counties Saturday Night, With Lows Dipping as Low as 34"
+          ]
+        },
+        {
+          "title": "サンドウィッチマン",
+          "traffic": "10000+",
+          "news": [
+            "サンド富澤たけし、復帰した伊達みきおの後遺症に言及「漫才をやるにはまだ少しかかるかも」",
+            "サンド伊達復帰にファン安堵も、バナナマン日村“6カ月休養”に集まる心配…コンビの「名物CM」では“代役起用”で際立つ不在",
+            "「サンドウィッチマン」の伊達みきおさんが活動再開 脳梗塞で８月から休養"
+          ]
+        },
+        {
+          "title": "暗号資産とは",
+          "traffic": "100+",
+          "news": [
+            "暗号資産９９００億円相当流出、北朝鮮ハッカー集団の犯行と断定…ＦＢＩ発表「資金洗浄の動き」（読売新聞オンライン）",
+            "暗号資産の盗難 「北朝鮮が関与」 FBI バイナンス事件で",
+            "暗号資産大手バイナンス“1兆円窃盗” FBIが北朝鮮ハッカーの関与確認"
+          ]
+        },
+        {
+          "title": "ユンホ",
+          "traffic": "100+",
+          "news": [
+            "東方神起ユンホ（U-KNOW）初のコンサートが横浜アリーナにて開幕！日本ならではの特別なパフォーマンスを披露",
+            "［韓流］東方神起ユンホが日本で新曲リリース 31日から公演も",
+            "東方神起ユンホ、ソロアリーナツアーに先駆けて配信シングル「君がいる」リリース（動画あり）"
+          ]
+        },
+        {
+          "title": "cuaca hari ini",
+          "traffic": "100+",
+          "news": [
+            "Today BMKG Forecasts Heavy Rain in Several Regions of Indonesia, 9 Provinces in Alert Status"
+          ]
+        },
+        {
+          "title": "細野豪志",
+          "traffic": "500+",
+          "news": [
+            "災害対応の司令塔「防災庁」きょう発足、４部門３５２人・地方拠点設置…「事前防災」から復旧・復興まで一元的に",
+            "相次ぐ災害 被災者ニーズ踏まえた支援は 防災庁が直面する課題",
+            "防災庁、2日発足　内閣直属、初代防災相は細野復興相が兼務へ"
+          ]
+        },
+        {
+          "title": "江本 孟紀",
+          "traffic": "2000+",
+          "news": [
+            "中日、工藤監督就任で強くなる？江本氏「中日とソフトバンクでは…」（ニッポン放送）",
+            "中日・大野雄大「3年連続2ケタ勝利は捨てて、オフは走ります」／新監督面談",
+            "【阪神】岩崎優が危機感感じた「工藤頼み」の極端リレー「その中心に自分がいる必要がある」"
+          ]
+        },
+        {
+          "title": "thời tiết",
+          "traffic": "500+",
+          "news": [
+            "Dự báo xu thế thời tiết mùa đông và thời gian xuất hiện rét đậm, rét hại",
+            "Gần 100 trạm khí tượng ghi nhận nhiệt độ cao kỷ lục, không khí lạnh tháng 11 ra sao?",
+            "[Video] Tháng 11, mưa to tập trung tại Trung Bộ và Nam Bộ"
+          ]
+        },
+        {
+          "title": "高橋光成",
+          "traffic": "100+",
+          "news": [
+            "西武・高橋光成が海外FAを決断",
+            "【西武】外崎修汰、海外FA権行使について「未定です」今季は35試合出場で打率１割６分７厘",
+            "西武・外崎 海外ＦＡ権行使は「未定」広池球団本部長と話し合いへ"
+          ]
+        },
+        {
+          "title": "広島天気",
+          "traffic": "500+",
+          "news": [
+            "【東広島市】11/2 最高20℃、朝は雨、昼間は天気回復の予想【朝版】",
+            "【広島県】11/2の天気予報（FNNプライムオンライン（フジテレビ系））",
+            "1日の広島県 天気の崩れはない見込み（31日午後5時25分放送）"
+          ]
         }
       ]
     }
