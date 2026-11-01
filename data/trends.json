@@ -1,87 +1,91 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-10-31T21:05:34.360790Z",
+  "updatedAt": "2026-11-01T04:46:22.748663Z",
   "current": [
     {
-      "title": "premier league",
-      "traffic": "100+",
-      "news": [
-        "Manchester City 0-1 Brighton, Coventry 3-1 Sunderland and more: clockwatch - as it happened",
-        "Brighton stun the Etihad; Chelsea down Man Utd",
-        "Premier League LIVE: Build-up, team news, live text, radio & score updates from eight games as it happens from across the Premier League"
-      ]
-    },
-    {
-      "title": "venue101",
-      "traffic": "1000+",
-      "news": [
-        "ano/iLiFE!/KO1KEYZ/生田斗真 | Venue101",
-        "【Venue101】11月7日(土)生放送 - Venue101のリリース情報 - Venue101",
-        "10.31 NHK音楽番組「Venue101」今夜放送！出演者情報"
-      ]
-    },
-    {
-      "title": "シカゴ ホワイトソックス",
-      "traffic": "500+",
-      "news": [
-        "ホワイトソックス、世界一ブルワーズから“引き抜き”補強「急速にキャリアを積み重ねてきた」シカゴメディア歓迎「重要な役割を担う」（THE DIGEST）",
-        "ホワイトソックス、世界一ブルワーズから“引き抜き”補強「急速にキャリアを積み重ねてきた」シカゴメディア歓迎「重要な役割を担う」",
-        "「ミラクル ホワイトソックス」継続へ Wソックスがブ軍世界初制覇直後に同球団敏腕スカウト招へい"
-      ]
-    },
-    {
-      "title": "矢野 謙次",
+      "title": "epicentro",
       "traffic": "200+",
       "news": [
-        "巨人退団→まさかの阪神入団「禁断の移籍」 大物OBも復帰…ファン歓喜「え、ついに！」（Full-Count）",
-        "ニュース - チーム - 矢野謙次一軍打撃チーフコーチ 就任会見",
-        "掛布雅之氏「藤川監督は強い右腕を手にした」２軍監督から配置転換の阪神・平田ヘッドのチームをまとめる手腕に期待"
+        "Fuerte terremoto magnitud 5.5 - 12 km al oeste de Choshi, Prefectura de Chiba, Japón, Thursday 29 Oct 2026 a las 00:07 (GMT +9)",
+        "SHOA descarta tsunami en costas de Chile tras fuerte sismo registrado en Japón",
+        "Terremoto hoy, sábado 31 de octubre, en Filipinas: dónde fue el epicentro y cuál fue su magnitud"
       ]
     },
     {
-      "title": "中央自動車道",
-      "traffic": "500+",
+      "title": "仙台 対 sr渋谷",
+      "traffic": "200+",
       "news": [
-        "中央道で車が横転 3～6歳の子ども含む8人搬送 20代の女性が死亡 岐阜・瑞浪市",
-        "中央道下り線 事故で通行止め",
-        "８人乗り車横転で女性死亡 “定員乗車”に潜む危険 岐阜・瑞浪市（中京テレビＮＥＷＳ）"
+        "【ハイライト】10/31 仙台 vs 東京SR（26-27 B.PREMIER）",
+        "【速報】仙台89ERSの本日の試合が終わりました",
+        "誰も責められないジョーダン・ヒース 涙をのんだ仙台戦、彼がいてこその点差【記者コラム・ショットクロック】"
       ]
     },
     {
-      "title": "大田泰示",
-      "traffic": "500+",
+      "title": "尚志高校サッカー",
+      "traffic": "100+",
+      "news": [
+        "全国高校サッカー福島県大会、11月1日決勝:福島スポーツ",
+        "＜速報＞高校サッカー福島県大会決勝前半終了 尚志２ー１帝京安積",
+        "【前回選手権ベスト4】尚志（福島）のスーパープレー集｜第105回全国高校サッカー選手権大会"
+      ]
+    },
+    {
+      "title": "ポケモン go ハロウィン",
+      "traffic": "100+",
+      "news": [
+        "『ポケモンGO』野生に“激レア色違い”が初登場！「ハロウィン2026 パート2」重要ポイントまとめ（インサイド）",
+        "野生に“激レア色違い”が初登場！「ハロウィン2026 パート2」重要ポイントまとめ【ポケモンGO 秋田局】 2枚目の写真・画像",
+        "おにぎりゲンガーがサプライズ復刻 / フィールドに落ちている“箱”をタップしまくろう【ポケモンGO】"
+      ]
+    },
+    {
+      "title": "ミミポポ",
+      "traffic": "200+",
+      "news": [
+        "“余命1カ月宣告”26歳で乳がん告知・ミミポポ（41）、医師から「延命処置しかできない」病床での姿を公開（ABEMA TIMES）",
+        "34歳で余命宣告「肝性脳症」「肝硬変」と診断されたミミポポ(41)サポートチームが現在の姿を公開「体が辛くて彼女が初めて私たちの前で泣いた日」",
+        "YouTuberのミミポポが余命1カ月の宣告後も、病室で前向きな姿を公開 (2026年11月1日掲載)"
+      ]
+    },
+    {
+      "title": "千葉 対 福岡",
+      "traffic": "2000+",
+      "news": [
+        "負ければ単独最下位転落…正念場のJ1アビスパ福岡 課題の守備再建へ三國ケネディエブスが2ヶ月半ぶり先発【千葉戦スタメン】（西スポWEB OTTO!）",
+        "【プレビュー】シックスポインターの残留争い直接対決。ジェフユナイテッド千葉対アビスパ福岡の見どころ ｜ 日程・放送・配信予定 ｜ Jリーグ",
+        "「今までと一緒のことをやっていても、似たような結果になる」　J1アビスパ福岡、残留への〝原点回帰〟　【千葉戦見どころ】"
+      ]
+    },
+    {
+      "title": "北村友一",
+      "traffic": "200+",
       "news": []
     },
     {
-      "title": "フィギュアスケート速報",
-      "traffic": "2000+",
+      "title": "マリノス",
+      "traffic": "500+",
       "news": [
-        "「やっと世界に見てもらえた…！」23歳で鮮烈GPデビュー！ 遅咲き日本女子の完璧SPに喝采「涙出た」「ブラボー！！！」",
-        "ミスしても笑う、中田ＳＰ首位 フィギュアスケート・スケートカナダ",
-        "「へこたれずに頑張って」世界ジュニア4連覇の新星、島田麻央が憧れの坂本花織と初対談！ 時代を創った女王が贈る氷上のバトン（野口美惠）"
+        "11/1（日）川崎戦 開催イベントの中止・変更のお知らせ",
+        "11/1 横浜FM「グッズ出張販売」のお知らせ",
+        "11/1（日）川崎戦 日産KICKSトリコロール展示！！"
       ]
     },
     {
-      "title": "アスクイキゴミ",
-      "traffic": "2000+",
+      "title": "なんばグランド花月",
+      "traffic": "100+",
       "news": [
-        "2026年ブリーダーズカップダートマイル",
-        "【BCマイル】日本馬アスクイキゴミ5着、ルガルは着外…米国馬デターミニスティックがV（競馬のおはなし）",
-        "【ＢＣダートマイル】前走でＧ１級初制覇のロードフォンスは６着　好スタートも..."
+        "80歳・西川きよし「初めてお話させていただく」吉本興業の昔話 オール巨人も「はっきり知りません」（オリコン）",
+        "オリコンニュース：［11月1日］吉本興業「なんばグランド花月」朝9時から騒然 オール阪神が絶叫の事態",
+        "西川きよし、あわや解雇！？ 借金取りに変な客…オール阪神・巨人らが「昭和の劇場あるある」振り返る…ＮＧＫ３９周年キャンペーンＰＲ"
       ]
     },
     {
-      "title": "整体",
-      "traffic": "100+",
-      "news": []
-    },
-    {
-      "title": "ブルームバーグ",
-      "traffic": "100+",
+      "title": "hong kong vs sri lanka",
+      "traffic": "200+",
       "news": [
-        "中国景況感、10月再び50割れ 需要不足で生産・受注回復続かず",
-        "中国の１０月の製造業ＰＭＩ、２か月ぶりに「５０」下回る…消費低迷と貿易摩擦の高まりで",
-        "中国製造業活動、10月は縮小に転じる－景気回復に失速の兆し"
+        "OMAN 93/1 (4.4) vs SL 92/5 (Zohaib Amanat 43(13) Aamir Kaleem 1(1)) | Sri Lanka vs Oman, Plate, Semi Final 1, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+        "Sri Lanka vs Oman Plate Semi Final 1 Highlights 2026: Oman beat Sri Lanka by 5 wickets",
+        "OMA:93/1 (4.4) | Live Cricket Score | SL vs OMA | hk sixes 2026 | Cricket Scoreboard"
       ]
     }
   ],
@@ -17981,6 +17985,97 @@
             "中国景況感、10月再び50割れ 需要不足で生産・受注回復続かず",
             "中国の１０月の製造業ＰＭＩ、２か月ぶりに「５０」下回る…消費低迷と貿易摩擦の高まりで",
             "中国製造業活動、10月は縮小に転じる－景気回復に失速の兆し"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-11-01T04:46:22.748663Z",
+      "items": [
+        {
+          "title": "epicentro",
+          "traffic": "200+",
+          "news": [
+            "Fuerte terremoto magnitud 5.5 - 12 km al oeste de Choshi, Prefectura de Chiba, Japón, Thursday 29 Oct 2026 a las 00:07 (GMT +9)",
+            "SHOA descarta tsunami en costas de Chile tras fuerte sismo registrado en Japón",
+            "Terremoto hoy, sábado 31 de octubre, en Filipinas: dónde fue el epicentro y cuál fue su magnitud"
+          ]
+        },
+        {
+          "title": "仙台 対 sr渋谷",
+          "traffic": "200+",
+          "news": [
+            "【ハイライト】10/31 仙台 vs 東京SR（26-27 B.PREMIER）",
+            "【速報】仙台89ERSの本日の試合が終わりました",
+            "誰も責められないジョーダン・ヒース 涙をのんだ仙台戦、彼がいてこその点差【記者コラム・ショットクロック】"
+          ]
+        },
+        {
+          "title": "尚志高校サッカー",
+          "traffic": "100+",
+          "news": [
+            "全国高校サッカー福島県大会、11月1日決勝:福島スポーツ",
+            "＜速報＞高校サッカー福島県大会決勝前半終了 尚志２ー１帝京安積",
+            "【前回選手権ベスト4】尚志（福島）のスーパープレー集｜第105回全国高校サッカー選手権大会"
+          ]
+        },
+        {
+          "title": "ポケモン go ハロウィン",
+          "traffic": "100+",
+          "news": [
+            "『ポケモンGO』野生に“激レア色違い”が初登場！「ハロウィン2026 パート2」重要ポイントまとめ（インサイド）",
+            "野生に“激レア色違い”が初登場！「ハロウィン2026 パート2」重要ポイントまとめ【ポケモンGO 秋田局】 2枚目の写真・画像",
+            "おにぎりゲンガーがサプライズ復刻 / フィールドに落ちている“箱”をタップしまくろう【ポケモンGO】"
+          ]
+        },
+        {
+          "title": "ミミポポ",
+          "traffic": "200+",
+          "news": [
+            "“余命1カ月宣告”26歳で乳がん告知・ミミポポ（41）、医師から「延命処置しかできない」病床での姿を公開（ABEMA TIMES）",
+            "34歳で余命宣告「肝性脳症」「肝硬変」と診断されたミミポポ(41)サポートチームが現在の姿を公開「体が辛くて彼女が初めて私たちの前で泣いた日」",
+            "YouTuberのミミポポが余命1カ月の宣告後も、病室で前向きな姿を公開 (2026年11月1日掲載)"
+          ]
+        },
+        {
+          "title": "千葉 対 福岡",
+          "traffic": "2000+",
+          "news": [
+            "負ければ単独最下位転落…正念場のJ1アビスパ福岡 課題の守備再建へ三國ケネディエブスが2ヶ月半ぶり先発【千葉戦スタメン】（西スポWEB OTTO!）",
+            "【プレビュー】シックスポインターの残留争い直接対決。ジェフユナイテッド千葉対アビスパ福岡の見どころ ｜ 日程・放送・配信予定 ｜ Jリーグ",
+            "「今までと一緒のことをやっていても、似たような結果になる」　J1アビスパ福岡、残留への〝原点回帰〟　【千葉戦見どころ】"
+          ]
+        },
+        {
+          "title": "北村友一",
+          "traffic": "200+",
+          "news": []
+        },
+        {
+          "title": "マリノス",
+          "traffic": "500+",
+          "news": [
+            "11/1（日）川崎戦 開催イベントの中止・変更のお知らせ",
+            "11/1 横浜FM「グッズ出張販売」のお知らせ",
+            "11/1（日）川崎戦 日産KICKSトリコロール展示！！"
+          ]
+        },
+        {
+          "title": "なんばグランド花月",
+          "traffic": "100+",
+          "news": [
+            "80歳・西川きよし「初めてお話させていただく」吉本興業の昔話 オール巨人も「はっきり知りません」（オリコン）",
+            "オリコンニュース：［11月1日］吉本興業「なんばグランド花月」朝9時から騒然 オール阪神が絶叫の事態",
+            "西川きよし、あわや解雇！？ 借金取りに変な客…オール阪神・巨人らが「昭和の劇場あるある」振り返る…ＮＧＫ３９周年キャンペーンＰＲ"
+          ]
+        },
+        {
+          "title": "hong kong vs sri lanka",
+          "traffic": "200+",
+          "news": [
+            "OMAN 93/1 (4.4) vs SL 92/5 (Zohaib Amanat 43(13) Aamir Kaleem 1(1)) | Sri Lanka vs Oman, Plate, Semi Final 1, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+            "Sri Lanka vs Oman Plate Semi Final 1 Highlights 2026: Oman beat Sri Lanka by 5 wickets",
+            "OMA:93/1 (4.4) | Live Cricket Score | SL vs OMA | hk sixes 2026 | Cricket Scoreboard"
           ]
         }
       ]
