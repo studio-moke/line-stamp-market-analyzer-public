@@ -1,83 +1,90 @@
 {
   "source": "Google Trends RSS JP",
-  "updatedAt": "2026-11-17T15:36:12.637983Z",
+  "updatedAt": "2026-11-18T00:38:14.956476Z",
   "current": [
     {
-      "title": "gta 6",
+      "title": "ラプターズ 対 ニックス",
       "traffic": "200+",
       "news": [
-        "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
-        "Logitech Announces That It Will Give Employees Time Off for Video Game Releases Ahead of GTA 6 Launch",
-        "GTA VI is coming, and these gamers are planning their getaways"
+        "【NBA試合速報】2026年11月16日（月） トロント・ラプターズ vs ニューヨーク・ニックス",
+        "ジェイレン・ブランソンが延長戦で決勝3Pを沈め、ニックスがラプターズを112－108で撃破"
       ]
     },
     {
-      "title": "久保建英",
-      "traffic": "2000+",
-      "news": []
-    },
-    {
-      "title": "アジアカップ サッカー",
+      "title": "java4shell",
       "traffic": "200+",
       "news": [
-        "「日本はブラジルを破り、韓国はサウジに足をすくわれた」21年ぶりの敗戦に韓国メディア嘆き…森保ジャパンとの差に悲観「別れが近づいている」「問題の先が見えない」（CoCoKARAnext）",
-        "［サッカー］韓国代表の黄仁範「暫定監督体制は代表チームにプラスにならない」",
-        "森保J、王国ブラジルに２度目の勝利「ますます広がる両国のサッカー格差」韓国メディア落胆「黄金期を迎えた日本にさらに後れを取る」"
+        "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+        "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+        "Cheong Wa Dae Holds Emergency Public-Private-Military Meeting over 'Java' Vulnerability: \"Response Strategy Established\""
       ]
     },
     {
-      "title": "内村有希容疑者",
+      "title": "大気汚染",
+      "traffic": "200+",
+      "news": [
+        "インド・ヒンドゥー教祭りの花火で隣国パキスタンの大気汚染か 広範囲で有害スモッグ（テレビ朝日系（ANN））",
+        "ヒンズー教伝統行事 有毒な白い泡漂う川で沐浴",
+        "観光名所インド門が“見えない” 大気汚染は過去5年で最悪レベル ヒンズー教最大のお祭り、以前の「爆竹全面禁止」が逆効果か"
+      ]
+    },
+    {
+      "title": "鈴木 福",
       "traffic": "100+",
       "news": []
     },
     {
-      "title": "jal ブラックフライデー国内線",
+      "title": "ポーカー",
+      "traffic": "200+",
+      "news": [
+        "ポーカー大会無許可開催疑い 逮捕",
+        "無許可でポーカー大会疑い、神戸 主催者逮捕は全国初",
+        "神戸・北野の貸会場で違法なポーカー大会を開いた風営法違反容疑 男4人逮捕 全国初 兵庫県警|事件・事故"
+      ]
+    },
+    {
+      "title": "バルテリ・ボッタス",
+      "traffic": "100+",
+      "news": [
+        "ボッタス、2027年の残留は「分からない」 ハータのF1ライセンス取得支援に理解（TopNews）",
+        "キャデラック残留が危ぶまれるボッタス。CEOはハータを希望、評価を高めたベスティをメルセデスが大プッシュ",
+        "【F1シート争い2027】キャデラックの1席に候補3人 ペレス「経験が鍵」、ボッタス「シートを守るとは考えていなかった」"
+      ]
+    },
+    {
+      "title": "田宮裕涼",
+      "traffic": "100+",
+      "news": [
+        "【日本ハム】田宮裕涼の友人オタミヤ、ファンフェス出演に黄信号 多忙のため出演未定（日刊スポーツ）",
+        "MC＆ゲストが決定！乃木坂野球部も登場！ | お知らせ | HOKKAIDO BALLPARK F VILLAGE | 北海道ボールパークFビレッジ",
+        "金川紗耶・黒見明香が11月21日(土)にエスコンフィールドHOKKAIDOで開催される「F FES 2026 supported by Fanatics」に出演決定！"
+      ]
+    },
+    {
+      "title": "立浪和義",
       "traffic": "500+",
       "news": [
-        "クラコン会員限定！限定クーポンで最大50,000円割引も！ブラックフライデーセール開催中☆さらにeJALポイントもプレゼント！",
-        "ジェットスター、国内18路線・海外13路線すべてが対象のブラックフライデーセール。片道3696円から（トラベル Watch）",
-        "特別企画「ANA BLACK FRIDAY」開催 〜あなたの旅を、もっと特別に〜｜プレスリリース"
+        "中日・工藤監督に「ちょっと気持ち悪かった（笑）」立浪・井上が揃い踏みでぶちまけた“工藤流への本音と疑問”（週刊女性PRIME）",
+        "中日の立浪元監督と井上前監督、歯と口の健康づくりでトークショー 妻のフロス話やぼやきで会場沸かす",
+        "立浪和義・井上一樹ら元中日ドラゴンズ監督が、トークイベント揃い踏みでぶちまけた「工藤公康監督への本音と疑問」"
       ]
     },
     {
-      "title": "冨安健洋",
-      "traffic": "200+",
+      "title": "jpモルガン・チェース",
+      "traffic": "100+",
       "news": [
-        "鎌田＆冨安所属のC・パレス、新指揮官はトーマス・フランク氏に決定か…2年半契約で基本合意（サッカーキング）",
-        "鎌田大地と冨安健洋が所属のクリスタルパレス新監督に53歳フランク氏が就任",
-        "冨安＆鎌田所属のパレス、新監督はトーマス・フランク氏に決定！…プレミア最下位からの立て直し託す"
+        "JPモルガン、三菱UFJの時価総額3.7倍 M&Aで高めた総合力",
+        "JPモルガン・チェース（JPM）のテクニカル水準：オプションフローは340ドル〜360ドルの間で混在",
+        "上院の調査報道を受け、JPMorgan（JPM）の株価は31％割安である可能性がある"
       ]
     },
     {
-      "title": "田中碧",
+      "title": "nvda",
       "traffic": "1000+",
-      "news": []
-    },
-    {
-      "title": "神村学園",
-      "traffic": "200+",
       "news": [
-        "高校サッカー選手権は「死の組」なしか 流経大柏、静岡学園、神村学園など群雄割拠",
-        "組み合わせ決定及びチケット販売概要のお知らせ 第105回全国高等学校サッカー選手権大会",
-        "神奈川代表の日大藤沢、１回戦は初出場の生駒 主将中村「粘り強い戦いを」 全国高校サッカー"
-      ]
-    },
-    {
-      "title": "google play",
-      "traffic": "200+",
-      "news": [
-        "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
-        "メルカリAndroid版がGoogle Playストアから消える不具合発生",
-        "メルカリ、Android版がPlayストアから消える不具合 新規ダウンロード不可に、削除しないよう呼びかけ"
-      ]
-    },
-    {
-      "title": "紺野ぶるま",
-      "traffic": "200+",
-      "news": [
-        "大悟「THE Wやりたいんじゃ!!」紺野ぶるま、スパイク、エルフ出場 哲夫と友近が審査（お笑いナタリー）",
-        "大悟「THE Wやりたいんじゃ!!」紺野ぶるま、スパイク、エルフ出場 哲夫と友近が審査",
-        "「私の芸名は横澤夏子」人気ママ芸人が４歳娘に大ウソ 寝かしつけ中にネタ作り→“大人の芸風”を考慮も「最近覚え始めて」"
+        "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO",
+        "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+        "Nvidia seeks to reassure investors in first earnings report since Jensen Huang scandal"
       ]
     }
   ],
@@ -22082,6 +22089,96 @@
             "大悟「THE Wやりたいんじゃ!!」紺野ぶるま、スパイク、エルフ出場 哲夫と友近が審査（お笑いナタリー）",
             "大悟「THE Wやりたいんじゃ!!」紺野ぶるま、スパイク、エルフ出場 哲夫と友近が審査",
             "「私の芸名は横澤夏子」人気ママ芸人が４歳娘に大ウソ 寝かしつけ中にネタ作り→“大人の芸風”を考慮も「最近覚え始めて」"
+          ]
+        }
+      ]
+    },
+    {
+      "capturedAt": "2026-11-18T00:38:14.956476Z",
+      "items": [
+        {
+          "title": "ラプターズ 対 ニックス",
+          "traffic": "200+",
+          "news": [
+            "【NBA試合速報】2026年11月16日（月） トロント・ラプターズ vs ニューヨーク・ニックス",
+            "ジェイレン・ブランソンが延長戦で決勝3Pを沈め、ニックスがラプターズを112－108で撃破"
+          ]
+        },
+        {
+          "title": "java4shell",
+          "traffic": "200+",
+          "news": [
+            "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+            "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+            "Cheong Wa Dae Holds Emergency Public-Private-Military Meeting over 'Java' Vulnerability: \"Response Strategy Established\""
+          ]
+        },
+        {
+          "title": "大気汚染",
+          "traffic": "200+",
+          "news": [
+            "インド・ヒンドゥー教祭りの花火で隣国パキスタンの大気汚染か 広範囲で有害スモッグ（テレビ朝日系（ANN））",
+            "ヒンズー教伝統行事 有毒な白い泡漂う川で沐浴",
+            "観光名所インド門が“見えない” 大気汚染は過去5年で最悪レベル ヒンズー教最大のお祭り、以前の「爆竹全面禁止」が逆効果か"
+          ]
+        },
+        {
+          "title": "鈴木 福",
+          "traffic": "100+",
+          "news": []
+        },
+        {
+          "title": "ポーカー",
+          "traffic": "200+",
+          "news": [
+            "ポーカー大会無許可開催疑い 逮捕",
+            "無許可でポーカー大会疑い、神戸 主催者逮捕は全国初",
+            "神戸・北野の貸会場で違法なポーカー大会を開いた風営法違反容疑 男4人逮捕 全国初 兵庫県警|事件・事故"
+          ]
+        },
+        {
+          "title": "バルテリ・ボッタス",
+          "traffic": "100+",
+          "news": [
+            "ボッタス、2027年の残留は「分からない」 ハータのF1ライセンス取得支援に理解（TopNews）",
+            "キャデラック残留が危ぶまれるボッタス。CEOはハータを希望、評価を高めたベスティをメルセデスが大プッシュ",
+            "【F1シート争い2027】キャデラックの1席に候補3人 ペレス「経験が鍵」、ボッタス「シートを守るとは考えていなかった」"
+          ]
+        },
+        {
+          "title": "田宮裕涼",
+          "traffic": "100+",
+          "news": [
+            "【日本ハム】田宮裕涼の友人オタミヤ、ファンフェス出演に黄信号 多忙のため出演未定（日刊スポーツ）",
+            "MC＆ゲストが決定！乃木坂野球部も登場！ | お知らせ | HOKKAIDO BALLPARK F VILLAGE | 北海道ボールパークFビレッジ",
+            "金川紗耶・黒見明香が11月21日(土)にエスコンフィールドHOKKAIDOで開催される「F FES 2026 supported by Fanatics」に出演決定！"
+          ]
+        },
+        {
+          "title": "立浪和義",
+          "traffic": "500+",
+          "news": [
+            "中日・工藤監督に「ちょっと気持ち悪かった（笑）」立浪・井上が揃い踏みでぶちまけた“工藤流への本音と疑問”（週刊女性PRIME）",
+            "中日の立浪元監督と井上前監督、歯と口の健康づくりでトークショー 妻のフロス話やぼやきで会場沸かす",
+            "立浪和義・井上一樹ら元中日ドラゴンズ監督が、トークイベント揃い踏みでぶちまけた「工藤公康監督への本音と疑問」"
+          ]
+        },
+        {
+          "title": "jpモルガン・チェース",
+          "traffic": "100+",
+          "news": [
+            "JPモルガン、三菱UFJの時価総額3.7倍 M&Aで高めた総合力",
+            "JPモルガン・チェース（JPM）のテクニカル水準：オプションフローは340ドル〜360ドルの間で混在",
+            "上院の調査報道を受け、JPMorgan（JPM）の株価は31％割安である可能性がある"
+          ]
+        },
+        {
+          "title": "nvda",
+          "traffic": "1000+",
+          "news": [
+            "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO",
+            "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+            "Nvidia seeks to reassure investors in first earnings report since Jensen Huang scandal"
           ]
         }
       ]
